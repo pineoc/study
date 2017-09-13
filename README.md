@@ -3,8 +3,8 @@
 
 ## 리스트
 
-### 공부
-- 개인프로젝트-CyberLion-Support
+### 공부 & 
+- [CyberLion-Support](CyberLion-Support)
 
 ### 컨퍼런스
 - [Google For Mobile 2017](https://github.com/pineoc/study/tree/master/google-for-mobile-2017)
