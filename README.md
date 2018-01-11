@@ -10,6 +10,7 @@
 - [Google For Mobile 2017](google-for-mobile-2017)
 - [Google I/O 2017 Extended](io-extended-2017)
 - [J2S Conference 2017](j2s-2017)
+- [play.node 2017](playnode-2017)
 
 ### 토이 프로젝트
 - [HungryGame](https://github.com/pineoc/hungryGame-renew)
