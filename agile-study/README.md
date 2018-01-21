@@ -5,8 +5,9 @@
 ## 공부 목록
 
 - 애자일이란?
-- [스크럼 & 칸반](Scrum-Kanban.md)
+- [책: 스크럼 & 칸반](Scrum-Kanban.md)
 - [스크럼 마스터는 뭘까?](Scrum-Master.md)
+- [김지영 님의 애자일이 도대체 뭐에요 영상 내용 정리](agile-youtube.md)
 
 ## 참고하면 좋은 글
 
