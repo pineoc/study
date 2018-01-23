@@ -17,3 +17,7 @@
 - [고종범 - 애자일은 반드시 없어져야 한다](https://www.slideshare.net/jbgo93/ss-64683535), [Youtube 영상](https://www.youtube.com/watch?v=gHVVOvTcE5s)
 - [고종범 - 성공하는 애자일을 위한 짧은 이야기](https://www.slideshare.net/jbgo93/ss-64684052)
 - [김지영 brunch - 애자일이 도대체 뭐에요?](https://brunch.co.kr/@pubjinson/6), [Youtube 영상](https://youtu.be/yl4gHBtabI4)
+
+## 발표자료 준비
+
+- [스크럼 & 스크럼 마스터](marp-source/scrum-study-slide.md)
