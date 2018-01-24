@@ -1,17 +1,18 @@
-<!-- $theme: default --> 
-<!-- page_number: true -->  
+<!-- $theme: default -->
+<!-- page_number: true -->
+
 # Scrum & Scrum Master
 
 @pineoc 
 이윤석
 
 ---
-
 # Index
 
 - Why?
 - Scrum?
 - Scrum Master?
+- +α
 
 ---
 # Why?
@@ -26,6 +27,8 @@
 # Why?
 
 일단 스크럼 마스터가 뭔지 궁금하지만, 스크럼은 뭐지?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/350px-Scrum_process.svg.png)
 
 ---
 # Scrum
@@ -50,7 +53,8 @@
 ---
 # 여기서 애자일(Agile) 소프트웨어 개발은?
 
-애자일 개발 프로세스는 `애자일(Agile=기민한, 좋은 것을 빠르고 낭비없게 만드는 것)` 개발을 가능하게 해 주는 다양한 방법론 전체를 일컫는 말입니다.
+애자일 개발 프로세스는 
+`애자일(Agile=기민한, 좋은 것을 빠르고 낭비없게 만드는 것)` 개발을 가능하게 해 주는 다양한 방법론 전체를 일컫는 말입니다.
 ## 종류
 - XP(eXtreme Programming)
 - Scrum
@@ -119,13 +123,14 @@
 - 스프린트(Sprint): 반복적인 개발 주기
   - 회사에서 정하는 이터레이션이 개발 주기
   - planning ~ review 기간이 1 스프린트
-- 일일 스크럼 회의: 날마다 진행되는 미팅 (어제 한일, 오늘 할일, blocker)
-- 실행 가능한 제품(shippable product): 스프린트 결과로 나오는 실행 가능한 제품
+- 일일 스크럼 회의: 날마다 진행되는 미팅 (어제 한일, 오늘 할일, Blocker)
+- 실행 가능한 제품(Shippable Product): 스프린트 결과로 나오는 `실행 가능한 제품`
 - 제품 백로그: 개발할 제품에 대한 요구 사항 목록
 - 스프린트 백로그: 각 스프린트 목표에 도달하기 위해 필요한 작업 목록
 
 ---
 # Scrum
+
 ## `칸반과 스크럼`이라는 책도 읽어보았습니다.
 - 정리 문서: [링크](https://github.com/pineoc/study/blob/master/agile-study/Scrum-Kanban.md)
 - 스크럼과 칸반의 차이, 두 `프로세스 도구`는 무엇인지에 대해 설명합니다.
@@ -133,10 +138,100 @@
 
 ---
 # Scrum
-## 다시, 그래서 스크럼이 뭔데요?
+
+## 정리, 그래서 스크럼이 뭔데요?
 - 애자일 소프트웨어 공학 중 하나로 프로세스 도구이다.
 - 기간이 고정된 이터레이션을 규정한다.(스프린트)
 - 팀이 이터레이션에서 할 일의 양을 결정한다.
 - 세가지 역할(제품 책임자, 팀, 스크럼 마스터)을 규정한다.
 - 제품 백로그에 우선순위를 정의한다.
 - 계획하기와 공정 개선에 속도(Velocity)를 지표로 사용한다.
+
+---
+# Scrum Master(스크럼 마스터)?
+
+공부했던 내용 정리 링크: 
+[pineoc/study/agile-study/scrum-master.md](https://github.com/pineoc/study/blob/master/agile-study/Scrum-Master.md)
+
+---
+# Scrum Master(스크럼 마스터)?
+
+## [Wiki에서는]()
+- 장애물 제거 및 프로세스 리더십 제공
+- 일반적인 관리를 수행하는 프로젝트 관리자들과는 다름
+- 팀원을 코칭하고 프로젝트의 문제 상황을 해결하는 역할
+
+---
+# Scrum Master(스크럼 마스터)?
+
+## [Atlassian에서는](https://ko.atlassian.com/agile/scrum)
+
+- Scrum masters are the champion for scrum within their team. They coach the team, the product owner, and the business on the scrum process and look for ways to fine-tune their practice of it. An effective scrum master deeply understands the work being done by the team and can help the team optimize their delivery flow. As the facilitator-in-chief, they schedule the needed resources (both human and logistical) for sprint planning, stand-up, sprint review, and the sprint retrospective.
+
+---
+# Scrum Master(스크럼 마스터)?
+
+## [Atlassian에서는](https://ko.atlassian.com/agile/scrum)
+
+- Scrum masters are the champion for scrum within their team. They coach the team, the product owner, and the business on the scrum process and look for ways to fine-tune their practice of it. An effective scrum master deeply understands the work being done by the team and can help the `team optimize their delivery flow`. As the `facilitator-in-chief`, they schedule the needed resources (both human and logistical) for `sprint planning`, `stand-up`, `sprint review`, and the `sprint retrospective`.
+
+---
+# Scrum Master(스크럼 마스터)?
+
+## 정리해보면,
+- 스크럼 팀의 **스크럼이 잘 수행될 수 있도록** 도와주는 역할.
+- 의사결정을 내리는 주체는 아님.
+- 최대한 객관적인 시각에서 `스크럼에 정해진 원칙`들이 팀에 잘 적용될 수 있도록 도와줌
+- `문제`가 생겼을 때 해결하는 역할을 한다.
+
+---
+# Scrum Master(스크럼 마스터)?
+
+## 정리해보면,
+- 스크럼 팀의 **스크럼이 잘 수행될 수 있도록** 도와주는 역할.
+- 의사결정을 내리는 주체는 아님.
+- 최대한 객관적인 시각에서 `스크럼에 정해진 원칙`들이 팀에 잘 적용될 수 있도록 도와줌
+- `문제`가 생겼을 때 해결하는 역할을 한다.
+> 문제 = 팀원 간의 오해, 이해의 부족으로 생기는 분쟁이나 일에 대한 우선순위 선정 등을 말함.
+
+---
+# Scrum Master(스크럼 마스터)?
+
+## 정리해보면,
+- 스크럼 팀의 **스크럼이 잘 수행될 수 있도록** 도와주는 역할.
+- 의사결정을 내리는 주체는 아님.
+- 최대한 객관적인 시각에서 **스크럼에 정해진 원칙**들이 팀에 잘 적용될 수 있도록 도와줌
+- `문제`가 생겼을 때 해결하는 역할을 한다.
+> 문제 = 팀원 간의 오해, 이해의 부족으로 생기는 분쟁이나 일에 대한 우선순위 선정 등을 말함.
+- Facilitator(조력자, 촉진제)로 스프린트 플래닝, 스탠트업 미팅, 리뷰, 회고를 스케쥴링한다.
+
+---
+# +α1 리서치 회고
+<small>스크럼, 스크럼 마스터를 리서치했으니 `회고(Retrospective)`도 한번 해봅니다.</small>
+
+---
+# +α1 리서치 회고
+
+- 애자일, 스크럼, 칸반, XP 등 관심은 많았지만 자세하게 공부한건 이번이 처음이었습니다.
+- `애자일(Agile)`에 대한 국내 자료가 많지 않아 아쉬웠습니다.
+  - <small>영어 자료로 보면 되지만 그래도 국내에도 많이 있었으면...</small>
+  - <small>개인적으로 번역하고 자료들을 만들어보고 싶긴합니다.</small>
+- `스크럼`을 `프로세스 도구`로 보고 사용해야한다는 점!
+  - <small>팀을 도구에 맞추지 말고 도구를 잘 사용해야한다는 점</small>
+  - <small>팀을 먼저 알고 도구를 팀에 맞게 도입할 것</small>
+- 발표자료에 텍스트가 너무 많다.
+  - <small>필요한 내용을 중심으로 리팩토링해보자</small>
+
+---
+# +α2 더 공부해야할 것
+
+- 개발 프로세스를 적용하는데에 필요한 것들
+- 스크럼에서 더 공부해야할 것들
+  - 스토리 포인트
+  - 속도(Velocity) 측정
+  - 번다운 차트
+  - 스크럼 ceremonies(Planning, stand-up, sprint review, sprint retrospective)
+
+---
+
+# 감사합니다.
