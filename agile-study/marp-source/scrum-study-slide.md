@@ -100,19 +100,19 @@
 # Scrum
 
 ## 진행
-30일 간의 주기로 실제 동작하는 제품을 만들면서 개발을 진행시킨다.
-(일반적인 권장기간은 30일이지만 스크럼 적응도, 진행 상황에 따라 유연성을 가진다.)
+30일 간의 주기로 **실제 동작하는 제품**을 만들면서 개발을 진행시킨다.
+<small>(일반적인 권장기간은 30일이지만 스크럼 적응도, 진행 상황에 따라 유연성을 가진다.)</small>
 
 ---
 # Scrum
 
 ## 구성원
 - 제품 책임자(Product Owner)
-  - 제품 백로그를 정의하여 우선순위를 정해준다.
+  - <small>제품 백로그를 정의하여 우선순위를 정해준다.</small>
 - 제품 구현팀(Team)
-  - 제품을 구현. 이 팀은 교차 기능 팀으로 운영하는 것을 권장.
-- 스크럼 마스터(Scrum Master)
-  - 장애물 제거 및 프로세스 리더십 제공
+  - <small>제품을 구현. 이 팀은 교차 기능 팀으로 운영하는 것을 권장.</small>
+- **스크럼 마스터(Scrum Master)**
+  - <small>장애물 제거 및 프로세스 리더십 제공</small>
 
 > 스크럼 마스터가 지금 나왔지만 스크럼 이야기 후에!
 
@@ -121,8 +121,7 @@
 
 ## 용어
 - 스프린트(Sprint): 반복적인 개발 주기
-  - 회사에서 정하는 이터레이션이 개발 주기
-  - planning ~ review 기간이 1 스프린트
+  - 회사에서 정하는 이터레이션이 개발 주기 <small>(4주를 넘지 않는다)</small>
 - 일일 스크럼 회의: 날마다 진행되는 미팅 (어제 한일, 오늘 할일, Blocker)
 - 실행 가능한 제품(Shippable Product): 스프린트 결과로 나오는 `실행 가능한 제품`
 - 제품 백로그: 개발할 제품에 대한 요구 사항 목록
@@ -140,12 +139,12 @@
 # Scrum
 
 ## 정리, 그래서 스크럼이 뭔데요?
-- 애자일 소프트웨어 공학 중 하나로 프로세스 도구이다.
-- 기간이 고정된 이터레이션을 규정한다.(스프린트)
+- 애자일 소프트웨어 공학 중 하나로 **프로세스 도구**이다.
+- 기간이 고정된 **이터레이션**을 규정한다.(스프린트)
 - 팀이 이터레이션에서 할 일의 양을 결정한다.
-- 세가지 역할(제품 책임자, 팀, 스크럼 마스터)을 규정한다.
-- 제품 백로그에 우선순위를 정의한다.
-- 계획하기와 공정 개선에 속도(Velocity)를 지표로 사용한다.
+- 세가지 **역할**(제품 책임자, 팀, 스크럼 마스터)을 규정한다.
+- 제품 백로그에 **우선순위**를 정의한다.
+- 계획하기와 공정 개선에 `속도(Velocity)`를 지표로 사용한다.
 
 ---
 # Scrum Master(스크럼 마스터)?
@@ -166,14 +165,16 @@
 
 ## [Atlassian에서는](https://ko.atlassian.com/agile/scrum)
 
-- Scrum masters are the champion for scrum within their team. They coach the team, the product owner, and the business on the scrum process and look for ways to fine-tune their practice of it. An effective scrum master deeply understands the work being done by the team and can help the team optimize their delivery flow. As the facilitator-in-chief, they schedule the needed resources (both human and logistical) for sprint planning, stand-up, sprint review, and the sprint retrospective.
+Scrum masters are the champion for scrum within their team. They coach the team, the product owner, and the business on the scrum process and look for ways to fine-tune their practice of it. 
+An effective scrum master deeply understands the work being done by the team and can help the team optimize their delivery flow. As the facilitator-in-chief, they schedule the needed resources (both human and logistical) for sprint planning, stand-up, sprint review, and the sprint retrospective.
 
 ---
 # Scrum Master(스크럼 마스터)?
 
 ## [Atlassian에서는](https://ko.atlassian.com/agile/scrum)
 
-- Scrum masters are the champion for scrum within their team. They coach the team, the product owner, and the business on the scrum process and look for ways to fine-tune their practice of it. An effective scrum master deeply understands the work being done by the team and can help the `team optimize their delivery flow`. As the `facilitator-in-chief`, they schedule the needed resources (both human and logistical) for `sprint planning`, `stand-up`, `sprint review`, and the `sprint retrospective`.
+Scrum masters are the champion for scrum within their team. They coach the team, the product owner, and the business on the scrum process and look for ways to fine-tune their practice of it. 
+An effective scrum master deeply understands the work being done by the team and can help the `team optimize their delivery flow`. As the `facilitator-in-chief`, they schedule the needed resources (both human and logistical) for `sprint planning`, `stand-up`, `sprint review`, and the `sprint retrospective`.
 
 ---
 # Scrum Master(스크럼 마스터)?
@@ -207,7 +208,7 @@
 
 ---
 # +α1 리서치 회고
-<small>스크럼, 스크럼 마스터를 리서치했으니 `회고(Retrospective)`도 한번 해봅니다.</small>
+<small>스크럼, 스크럼 마스터를 리서치했으니 `회고(Retrospective)`도 한번 해봤습니다.</small>
 
 ---
 # +α1 리서치 회고
@@ -225,13 +226,15 @@
 ---
 # +α2 더 공부해야할 것
 
-- 개발 프로세스를 적용하는데에 필요한 것들
 - 스크럼에서 더 공부해야할 것들
+  - 스토리란?
+  - 스토리는 어떻게 (잘)쓰지?
   - 스토리 포인트
   - 속도(Velocity) 측정
   - 번다운 차트
   - 스크럼 ceremonies(Planning, stand-up, sprint review, sprint retrospective)
+- 개발 프로세스를 적용하는데에 필요한 것들
+- 우리 팀, 조직에 필요한 프로세스 도구는 뭘까
 
 ---
-
 # 감사합니다.
