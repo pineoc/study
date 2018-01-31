@@ -170,12 +170,140 @@
 ![](C:\Users\pineoc\Downloads\planning.jpg)
 
 ---
+# 속도(Velocity)
+<small>이터레이션 내에서 완료한 작업의 수(스토리 포인트)</small>
+
+![](C:\Users\pineoc\Downloads\velocity.jpg)
+
+---
+# 속도는 왜 측정하는가
+
+- <small>한정된 기간(이터레이션)동안 팀의 퍼포먼스를 알기위해
+- 속도를 알게되면 이터레이션 안에 개발할 수 있는 스토리를 알맞게 넣고,
+- `안정적 + 반복적`으로 개발된 스토리가 포함된 결과물을 전달할 수 있다
+- **프로젝트의 전체적인 흐름을 보고 관리할 수 있다.**
+</small>
+
+---
+## Refresh, 오늘 할 이야기
+
+- 스토리란?
+- 스토리는 어떻게 (잘)쓰지?
+- 스토리 포인트
+- 속도(Velocity) 측정
+- **번다운 차트**
+- 스크럼 ceremonies<small>(Planning, stand-up, sprint review, sprint retrospective)</small>
+
+---
+# Burndown Chart(번다운 차트)
+
+<img src="C:\Users\pineoc\Downloads\gh_burndown-chart2.png" height="520"/>
+
+---
+# Burndown Chart(번다운 차트)
+간단히 말하면, <small>**Work left to do versus time** = **시간 당 남은 일**을 보여줌</small>
+
+- 스프린트 백로그의 남은 작업량을 추적할 수 있음
+- 작업 속도를 파악할 수 있음
+- **스프린트 목표를 달성할 시기 예측 가능!**
+- **팀의 퍼포먼스를 측정할 수 있음!!**
+
+---
+# Burndown Chart(번다운 차트)
+
+<small>참고: http://www.agilenutshell.com/episodes/6-burndown-charts</small>
+
+![](C:\Users\pineoc\Downloads\burndown-4-realistic.png)
+
+---
+# 스크럼 Ceremonies
+
+- Planning
+- Stand-up
+- Sprint Review
+- Sprint Retrospective
+
+---
+# 스크럼 Ceremonies
+
+![](C:\Users\pineoc\Downloads\scrum3.jpg)
+
+---
+# 스크럼 Ceremonies - <small>`Sprint Planning`</small>
+
+예정된 스프린트에서 완료할 사항을 결정하는 팀 기획 회의.
+(제품 백로그에서 스프린트 백로그로 가져오는 플래닝)
+
+---
+# 스크럼 Ceremonies - <small>`Sprint Planning`</small>
+## 산출물
+
+- 스프린트 백로그
+- 확정된 스프린트 데모 날짜
+- 확정된 Daily Scrum 시간 & 장소
+
+> <small>플래닝에 대한 이야기는 따로 하나 만들어도 모자람이 없는 내용..!</small>
+
+---
+# 스크럼 Ceremonies - <small>`Stand-up`</small>
+Daily Scrum Meeting, 일일 스크럼 미팅이라고 함.
+
+- 스크럼 팀원 전원이 모여서 스탠드업으로 수행
+- 어제 한일, 오늘 할 일, 이슈 사항 공유
+
+> <small>스탠드업으로 수행하는 이유는 늘어지지 않게 하기 위해서.</small>
+
+---
+# 스크럼 Ceremonies - <small>`Stand-up`</small>
+
+<small>얼른 끝내...</small>
+
+![](C:\Users\pineoc\Downloads\image.png)
+
+---
+# 스크럼 Ceremonies - <small>`Sprint Review`</small>
+스프린트가 종료하는 시점에 팀원 전체가 모여
+각자 한 일을 리뷰한다.
+(혼내는 시간이 아닌 **팀이 만든 결과물**을 모두 함께 모여서 보는 것)
+
+---
+# 스크럼 Ceremonies - <small>`Sprint Retrospective`</small>
+
+산출물을 살펴보는 `Sprint Review`와 다르게,
+**스프린트 회고**는 스프린트 기간 동안에 팀 내부에서 발생한 여러가지 일들을 되돌아보는 것
+**잘한 것 / 개선할 것 / 새로 시작할 것**을 이야기하는 과정이다
+(`새로 시작할 것`은 다음 스프린트에서 새로 시작할 것들)
+
+---
+# 스크럼 Ceremonies - <small>`Sprint Retrospective`</small>
+
+회고는<small>
+팀원들이 평소에는 하기 힘든 이야기들을 끄집어내야 하는 과정이기 때문에
+**ScrumMaster**의 역할이 무척 중요하다
+</small>
+
+> **애자일 회고** 책을 추천
+
+---
+# 스크럼 Ceremonies - <small>`Sprint Retrospective`</small>
+
+회고를 위한 다양한 기법이 존재한다
+- 주요 사건을 5F로 공유 <small>(Fact, Feeling, Finding, Future action, Feedback)</small>
+- 다른 관점으로 프로젝트 돌아보기<small>(관계 중심, 툴 중심 등등)</small>
+- 오늘의 회고에서 나의 ESVP는?
+  - <small>Explorer / Shopper / Vacationer / Prisoner
+  - Book: [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/)</small>
+- 나를 점검하기
+- etc
+
+---
 # 더 했어야할 이야기
 
 - 개발 프로세스를 적용하는데에 필요한 것들
 - 우리 팀, 조직에 필요한 프로세스 도구는 뭘까
 
----
-# 
+> <small>스토리에 대한 깊은 이해, 스크럼 ceremonies 각각에 대한 이해가 
+> 녹아 있어야 위의 이야기를 할 수 있을 것 같습니다.</small>
 
 ---
+# 고맙습니다
