@@ -7,6 +7,7 @@
 - [CyberLion-Support](CyberLion-Support)
 - [JS-Study](https://github.com/pineoc/js-study)
 - [Agile](agile-study)
+- [Lean Study](agile-study/lean-study)
 
 ### 컨퍼런스
 - [Google For Mobile 2017](google-for-mobile-2017)
