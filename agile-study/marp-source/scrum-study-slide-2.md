@@ -229,6 +229,24 @@
 ![](C:\Users\pineoc\Downloads\scrum3.jpg)
 
 ---
+# 스크럼 Ceremonies <small>설명 전에,</small>
+### Ceremonies는 Time box를 잘 지켜야 한다!
+
+Planning - 2h
+Daily Stand up - 15m
+Review & Retrospective - 2h~4h
+Backlog Refinement - 2h
+<small>(Review, Retrospective 후에 Refinement까지 한번에 하는 경우도 있음)</small>
+
+---
+## Time Box (타임 박스)란?
+<small>https://www.agilealliance.org/glossary/timebox/</small>
+
+A timebox is a previously agreed period of time during which a person or a team works steadily towards completion of some goal.
+
+--> 팀이 일정한 목표를 달성하기 위해 먼저 합의한 시간!
+
+---
 # 스크럼 Ceremonies - <small>`Sprint Planning`</small>
 
 예정된 스프린트에서 완료할 사항을 결정하는 팀 기획 회의.
@@ -239,6 +257,7 @@
 ## 산출물
 
 - 스프린트 백로그
+  - <small>스토리 포인트가 작성된 스토리(티켓)</small>
 - 확정된 스프린트 데모 날짜
 - 확정된 Daily Scrum 시간 & 장소
 
@@ -271,8 +290,9 @@ Daily Scrum Meeting, 일일 스크럼 미팅이라고 함.
 
 산출물을 살펴보는 `Sprint Review`와 다르게,
 **스프린트 회고**는 스프린트 기간 동안에 팀 내부에서 발생한 여러가지 일들을 되돌아보는 것
-**잘한 것 / 개선할 것 / 새로 시작할 것**을 이야기하는 과정이다
-(`새로 시작할 것`은 다음 스프린트에서 새로 시작할 것들)
+
+**잘한 것 / 못한 것 / 개선할 것**을 이야기하는 과정이다
+**시간**을 지켜서 **프로세스에 대해서**만 이야기한다
 
 ---
 # 스크럼 Ceremonies - <small>`Sprint Retrospective`</small>
@@ -295,6 +315,15 @@ Daily Scrum Meeting, 일일 스크럼 미팅이라고 함.
   - Book: [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/)</small>
 - 나를 점검하기
 - etc
+
+---
+# 스크럼 Ceremonies - <small>`Backlog refinement`</small>
+Backlog Grooming이라고도 부른다.
+
+- 다음 스프린트가 오기 전에 진행되어야함
+- Product Backlog에 있는 할 일의 우선순위 정리, 포인트를 조정한다. <small>(개발 팀과 함께)</small>
+- 스프린트가 끝나고 Review, Retrospective와 함께 진행한다.
+- 다음 스프린트 백로그를 미리 작성하기도 한다.
 
 ---
 # 더 했어야할 이야기
