@@ -9,38 +9,38 @@
 ---
 # Index
 
-1. Lean이란?
-2. Lean Waste
-3. Lean Software Development
-4. Lean & Agile
+1. Lean?
+1. Kanban
+1. Appendix A, Lean Software Development
+1. Appendix B, Value Stream Mapping
 
 ---
-# Lean이란?
+# Lean?
 
 ---
-# Lean이란?
+# Lean?
 
-- ~~사전적 정의: 기울다, 기울이다~~
-- ## Lean Manufacturing
-  - Wiki: [link](https://en.wikipedia.org/wiki/Lean_manufacturing)
-  - Lean이라고 불리는 systematic method.
+- 사전적 정의: 야윈, 마른, 절감한
+- ## [Lean Manufacturing(Wiki)](https://en.wikipedia.org/wiki/Lean_manufacturing)
+  - From Toyota Production System(TPS)
   - **Waste** Minimization
-  - Lean Thinking(business methodology)
+  - **Value** Maximization
 
 ---
-# Lean = `Waste` `Minimization`
+# Lean
+##### maximize `customer value` while minimizing `waste`
 
 ---
-# Lean에서의 Waste
+# Lean, Waste
 
-아래의 세 가지 Waste는 TPS의 key concept이다.
+아래의 세 가지 Waste는 TPS의 Key concept이다.
 <small>`TPS = Toyota Production System`</small>
 - Muda(Uselessness): 낭비, 비 부가가치 활동
 - Mura(Unevenness): 공평, 흐름의 가변성
 - Muri(Overburden): 과중한 부담
 
 ---
-# Lean에서의 Waste 
+# Lean, Waste 
 
 **Muda**: `낭비`, `비 부가가치 활동`을 의미함
 
@@ -53,27 +53,7 @@
 `*` Defects: 불량
 
 ---
-# Lean에서 Waste
-
-**Mura**: Unevenness
-- lack of uniformity, irregularity, inequality ...
-- 결과물의 품질이 일정(균일)하지 못한 것
-- `JIT(Just In Time)` 방식으로 해결
-  - <small>Keeping little or no inventory</small>
-  - <small>FIFO(First In First Out)</small>
-
----
-# Lean에서 Waste
-
-**Muri**: Overburden
-- perforce, beyond one's power, immoderation ...
-- `standardized work(표준화된 작업)으로 개선`
-
----
-# Waste<small>는 어떻게 제거하는가</small>
-
----
-# Waste<small>는 어떻게 제거하는가</small>
+# Eliminate waste
 
 `Waste(Muda)`를 해결하는 방법(Countermeasures)
 
@@ -86,53 +66,39 @@
 `Defects` - <small>Standardized Work</small>
 
 ---
-# Value Stream Mapping
-Analyzing the current state and designing a future state for the series of events that take a product or service from its beginning through to the customer.
-
-<img src="C:\Users\pineoc\Downloads\ValueStreamMapParts.png" height="350"/>
+# Kanban
+#### Pull System
 
 ---
-# Continuous Flow
-Work in progress smoothly flows through production with minimal buffers between steps of the manufacturing process
+# Kanban
 
-![](C:\Users\pineoc\Downloads\cont-flow.png)
-
----
-# JIT(Just In Time)
-`Reducing flow times` within production system as well as response times from suppliers and to customers.
-
-<img src="https://vative.com.au/wp-content/uploads/2015/03/JIT_VSM.png" height="350"/>
+- 간판(看板)!
+- 프로세스 도구
+- 일을 작은 조각으로 나누고, 카드에 각 항목을 기입한 후 벽에 붙인다.
+- `WIP` 개수를 제한한다.
+- `리드타임`을 측정한다.
 
 ---
-# Kanban(Pull System)
-lean method to manage and improve work across human systems.
+# Kanban
 
-<img src="https://wac-cdn.atlassian.com/dam/jcr:bed936e1-0649-4278-a4dd-222b98e96fa5/agile_kanban_board.png?cdnVersion=jo" height="350"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kanban_board_example.jpg" height="500"/>
 
 ---
-# Lean Software Development
+# Kanban
+
+- 
+
+---
+# Appendix A
+#### Lean Software Development
 
 ---
 ## Lean Software Development
 
 > Lean software development(LSD) is a translation of `lean manufacturing` principles and practices to the `software development domain`.
  
-목표: 
-<small>시스템의 </small>`낭비`<small>를 줄이고, 고객에게 더 높은 가치를 만든다.</small>
-
----
-# Lean SD, Waste
-소프트웨어에서의 9 Waste
-
-`1` Building the wrong feature or product
-`2` Mismanaging the backlog
-`3` Rework
-`4` Unnecessarily complex solutions
-`5` Extraneous cognitive load
-`6` Psychological distress
-`7` Waiting/multitasking
-`8` Knowledge loss
-`9` Ineffective communication.
+#### 목표:
+`낭비`를 줄이고, 고객에게 더 높은 `가치`를 만든다.
 
 ---
 # Lean SD, 7 Principles
@@ -149,7 +115,6 @@ lean method to manage and improve work across human systems.
 ### Lean SD, Principles - <small>`Eliminate Waste`</small>
 
 - `Value stream mapping`을 통해 `waste`를 찾는다
-- (앞에 있던 9개의 waste 리스트)
 - waste가 있는 지점을 찾고 제거한다
 - 핵심 공정만 남을 때까지 `iteratively`하게
 
@@ -205,30 +170,6 @@ Pair Programming...
 - `문제의 근본 원인`<small>을 찾아 전체를 최적화하라</small>
 
 > Think `big`, act `small`, fail `fast`; learn `rapidly`
-
----
-# Lean Software Practices - <small>`Waste를 줄이기 위한 방법들`</small>
-`*` Seeing `waste`
-`*` Value stream mapping
-`*` Set-based development
-`*` Pull systems(Kanban)
-`*` Queuing theory
-`*` Motivation
-`*` Measurements
-`*` TDD(Test Driven Development)
-
----
-# Lean & Agile(Scrum)
-
----
-# Lean & Agile(Scrum)
-
-- 공통점
-  - 요구사항의 변화를 적극적으로 수용
-  - 제품을 고객에게 빠르게 전달, 고객 가치와 만족도를 높이는데 목적
-- 차이점
-  - Agile: 개인 또는 팀간에 `고객과 협업`하고 빠른 개발을 수행하는 것에 초점(고객과 협업)
-  - Lean: 고객의 관점에서 전체 프로세스 상에서 `낭비를 제거`하여 고객 가치를 높이는 것에 초점
 
 ---
 # 고맙습니다
