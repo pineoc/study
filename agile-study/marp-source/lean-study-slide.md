@@ -214,7 +214,7 @@ Pair Programming...
 # Kanban - `Lead Time`
 - End Time(Done) - Start Time(Backlog)
 - 티켓 생성 시점 ~ 반영되기까지의 시간
-- 
+- TBD(TODO:)
 
 ---
 # Kanban & Lean SD
