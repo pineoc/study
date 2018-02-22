@@ -12,6 +12,7 @@
 1. Lean?
 1. Lean Software Development
 1. Kanban
+1. Appendix A, 4 Principles Lean Management
 
 ---
 # Lean?
@@ -24,6 +25,7 @@
   - From Toyota Production System(TPS)
   - **Waste** Minimization
   - **Value** Maximization
+  - `Continuously Improve` Processes
 
 ---
 # Lean
@@ -92,7 +94,7 @@
 
 - `Value Stream Mapping`을 통해 `Waste`를 찾는다
 - Waste가 있는 지점을 찾고 제거한다
-- 핵심 공정만 남을 때까지 `iteratively`하게
+- `핵심 공정`만 남을 때까지 `iteratively`하게
 
 ---
 ### Lean SD, Principles - <small>`Amplify learning`</small>
@@ -109,19 +111,27 @@ Software development is a continuous learning process based on `iterations` when
 ### Lean SD, Principles - <small>`Decide as late as possible`</small>
 
 - <small>예측이 아닌</small> `사실을 기반`<small>으로 결정을 할 수 있을 때까지 확정을 늦춰라</small>
-- 왜?
+- Why?
   - <small>결정을 미루라는 말이 아님, 정보를 최대한 많이 가지고 있을 때의 결정이 유리하기 때문</small>
   - 개발 환경 = 예측이 불가능한 상황
   - 결정은 하되 변화를 수용할 수 있어야 함
 
 ---
+### Lean SD, Principles - <small>`Decide as late as possible`</small>
+
+<img src="C:\Users\pineoc\Downloads\inform.jpg" height="300"/>
+<img src="C:\Users\pineoc\Downloads\dragon.png" height="250"/>
+
+> `결정을 한번만 할 수 있을 때`, 결정할 수 있는 재료가 다 모였을 때 `좋은 결정`을 할 수 있다!
+
+---
 ### Lean SD, Principles - <small>`Deliver as fast as possible`</small>
 
 - <small>고객의 확실한 요구사항을 파악하기 위해 제품을 가능한 빨리 인도하라</small>
-- <small>일정한 품질을 보장할 `기술의 내재화`가 필수 조건이다</small>
+- <small>일정한 `품질을 보장`할 `기술의 내재화`가 필수 조건이다</small>
 - 필요조건
   - <small>낭비의 제거, 품질 보증 기술의 내재화</small>
-  - <small>일의 양 제한(WIP 제한)</small>
+  - <small>일의 양 제한</small> = `WIP 제한`
 
 ---
 ### Lean SD, Principles - <small>`Empower the team`</small>
@@ -163,17 +173,6 @@ Pair Programming...
 
 ---
 # Kanban
-###### Kanban Board Example
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kanban_board_example.jpg" height="450"/>
-
----
-# Kanban 
-###### JIRA Kanban Board
-
-<img src="https://wac-cdn.atlassian.com/dam/jcr:bed936e1-0649-4278-a4dd-222b98e96fa5/agile_kanban_board.png?cdnVersion=it" height="450"/>
-
----
-# Kanban
 #### General Practices
 - Limiting `WIP`(Work In Progress) - 진행 업무 제한
 - Visualization - 시각화
@@ -187,7 +186,18 @@ Pair Programming...
 ###### `WIP를 제한`하고 생산 `흐름을 관리`하여 고객에게 가치를
 ###### 빠르게 전달한다.
 ###### 팀원들과 `함께` `명시적 정책`을 만들어 개발을 진행하고, 
-###### 프로세스에 대한 `피드백`을 거쳐서 끊임없이 최적화 한다.
+###### 프로세스에 대한 `피드백`을 거쳐서 `끊임없이` 최적화 한다.
+
+---
+# Kanban
+###### Kanban Board Example
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kanban_board_example.jpg" height="450"/>
+
+---
+# Kanban 
+###### JIRA Kanban Board
+
+<img src="https://wac-cdn.atlassian.com/dam/jcr:bed936e1-0649-4278-a4dd-222b98e96fa5/agile_kanban_board.png?cdnVersion=it" height="450"/>
 
 ---
 # Kanban
@@ -196,9 +206,11 @@ Pair Programming...
 ---
 # Kanban - `Limiting WIP`
 ### Why?
-- <small>팀은 작게 나눈 일을 집중하면서 </small>`Throughput`<small>을 올릴 수 있다.</small>
+- <small>팀은 작게 나눈 일을 `집중`하면서 </small>`Throughput`<small>을 올릴 수 있다.</small>
 - <small>Blockers, Bottlenecks 볼 수 있음</small>
-- <small>과도한 업무로 개발자가 지치지 않도록 함. 생산성 유지</small>
+- <small>생산 흐름을 매끄럽게 제어하기 위해!</small>
+
+<img src="https://media.giphy.com/media/PoIn0cimHesHwvqFWE/giphy.gif" height="200"/>
 
 ---
 # Kanban - `Limiting WIP`
@@ -213,21 +225,32 @@ Pair Programming...
 ---
 # Kanban - `Lead Time`
 - End Time(Done) - Start Time(Backlog)
-- 티켓 생성 시점 ~ 반영되기까지의 시간
-- TBD(TODO:)
+- 티켓 `생성 시점` ~ `제품에 반영`되기까지의 시간
+- 리드 타임을 통해 프로세스의 blocker 확인 가능
+
+<img src="https://jira.atlassian.com/secure/attachment/108613/cfd.jpg" height="300"/>
 
 ---
 # Kanban & Lean SD
 
 ---
 # Kanban & Lean SD
-- 기민하게 그리고 적시에 상품을 출시하기 위한 스케줄링 시스템 (with Pull System)
+- `기민하게` 상품을 출시하기 위한 스케줄링 시스템
 - `Waste` Minimization
-  - <small>Multitasking, context switching에서 생기는 낭비 제거</small>
+  - <small>`WIP 제한`으로 Multitasking, Context Switching에서 생기는 낭비 제거</small>
   - <small>Pull 방식으로, 불필요한 일을 하지 않음`(Over-production)`</small>
 - `Value` Maximization
-  - <small>사용자가 원하는 기능, 제품을 만들어낸다</small>
+  - <small>사용자가 원하는 기능, 제품을 빠르게 만들어낸다</small>
+  - Waste-- ↺ Value++ (Virtuous Circle, `선순환`)
 
 ---
+# Appendix A
+#### 4 Principles Lean Management
 
+---
+## 4 Principles Lean Management
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wfsRAZUnonI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
 # 고맙습니다
