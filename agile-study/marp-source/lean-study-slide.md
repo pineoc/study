@@ -3,8 +3,8 @@
 
 # Lean에 대해 알아보자
 
-@pineoc
-이윤석
+#### @pineoc
+###### 이윤석
 
 ---
 # Index
@@ -13,9 +13,6 @@
 1. Lean Software Development
 1. Kanban
 1. Appendix A, 4 Principles Lean Management
-
----
-# Lean?
 
 ---
 # Lean?
@@ -31,28 +28,8 @@
 ##### maximize `customer value` while minimizing `waste`
 
 ---
-# Lean, Waste
-##### Muda(낭비), Mura(불공평), Muri(과부하)
-
-`*` Transport: 제품 수송에 드는 비용
-`*` Inventory: 제품 저장에 드는 비용(재고)
-`*` Motion: 제품, 이동
-`*` Waiting: 대기
-`*` Over-production: 과다 생산
-`*` Over-processing: 과다 가공
-`*` Defects: 불량
-
----
-# Lean SD
-#### Lean Software Development
-
----
 ## Lean Software Development
-
-> Lean software development(LSD) is a translation of `lean manufacturing` principles and practices to the `software development domain`.
- 
-#### 목표:
-`낭비`를 줄이고, 고객에게 더 높은 `가치`를 만든다.
+###### Lean software development(LSD) is a translation of `lean manufacturing` principles and practices to the `Software Development Domain`.
 
 ---
 # Lean SD, 7 Principles
@@ -70,14 +47,15 @@
 
 - Waste가 있는 지점을 찾고 제거한다
 - `핵심 공정`만 남을 때까지 `iteratively`하게
-- TODO: Image
+
+<img src="http://knowledgeblob.com/wp-content/uploads/2015/11/WastesOfSoftware1.jpg" height="350"/>
 
 ---
 ### Lean SD, Principles - <small>`Amplify learning`</small>
 ##### `반복(iteration)`<small>과 피드백을 통해 경험과 지식을 창출하라</small>
 - 반복: <small>요구사항 -> 설계 -> 개발 -> 테스트</small>
-- 방식: <small>Pair Programming, Code Review ...</small>
-- TODO: Image
+
+![](C:\Users\pineoc\Downloads\Untitled%20Diagram.png)
 
 ---
 ### Lean SD, Principles - <small>`Decide as late as possible`</small>
@@ -90,22 +68,27 @@
 ---
 ### Lean SD, Principles - <small>`Deliver as fast as possible`</small>
 
-- <small>고객의 `요구사항`을 파악하기 위해 제품을 가능한 빨리 인도</small>
-- <small>일정한 `품질을 보장`할 `기술의 내재화`가 조건</small>
+- Why? <small>고객의 `요구사항`을 파악하기 위해</small>
+- <small>`품질을 보장`할 `기술의 내재화`가 필요</small>
+
+<img src="C:\Users\pineoc\Downloads\loop-fast-delivery.png" height="300"/>
 
 ---
 ### Lean SD, Principles - <small>`Empower the team`</small>
-
-- `Respect People`, `사람이 먼저다`
-- <small>사람을 신뢰하고, 전문 기술을 가질 수 있도록 인재를 육성하라</small>
-- TODO: Image
+### `Respect People`
+##### <small>전문 기술을 가질 수 있도록 인재를 육성하라</small>
 
 ---
 ### Lean SD, Principles - <small>`Build integrity in`</small>
 
 - <small>결함을 예방하는</small> `테스트`<small>를 통해 코드의 품질을 내재화하라</small>
-- 빅뱅 통합보다 `지속적 통합`을 하라
-- 자동화된 `단위 테스트`와 `인수 테스트` 작성을 하라
+- 빅뱅 통합보다 `지속적 통합`, 자동화된 `단위 테스트`와 `인수 테스트` 작성을 하라
+
+<center>
+<img src="C:\Users\pineoc\Downloads\ci.png" height="180"/>
+<img src="https://spin.atomicobject.com/wp-content/uploads/acceptance_testing_diagram.png" height="180"/>
+<small>CI(Continuous Integration), Acceptance Test</small>
+</center>
 
 ---
 ### Lean SD, Principles - <small>`See the whole`</small>
@@ -115,9 +98,11 @@
 
 > Think `big`, act `small`, fail `fast`; learn `rapidly`
 
+<img src="https://buildinginformationmanagement.files.wordpress.com/2013/08/elephant-bim.jpg" height="300"/>
+
 ---
 # Kanban
-#### Lean SD Framework & Pull System
+#### Lean SD Framework
 
 ---
 # Kanban
@@ -131,7 +116,7 @@
 - 간판(看板), Visual Card
 - 일을 `작은 조각`으로 나누고, 카드에 각 항목을 기입한 후 벽에 붙인다
 - 일의 상태에 따라 보드의 Column을 나눈다
-- Column 마다 `WIP` 개수를 제한한다
+- Column 마다 `WIP` 수를 제한한다
 <small>(WIP = Work In Progress)</small>
 - `리드타임(lead time)`을 측정한다
 
@@ -144,13 +129,7 @@
 
 ---
 # Kanban
-#### General Practices
-- Limiting `WIP`(Work In Progress) - 진행 업무 제한
-- Visualization - 시각화
-- `Flow` management - 흐름 관리
-- Making `policies explicit` - `명시적 정책` 만들기
-- Using feedback loops - 피드백 루프
-- Collaborative or Experimental `evolution` - 협업
+#### ![](C:\Users\pineoc\Downloads\kanban-general%20(1).png)
 
 ---
 # Kanban
@@ -161,15 +140,25 @@
 
 ---
 # Kanban
-#### Limiting WIP(Work In Progress)
+##### Limiting WIP(Work In Progress)
 
 ---
 # Kanban - `Limiting WIP`
-### Why?
+#### Why?
 - <small>팀은 작게 나눈 일을 `집중`하면서 </small>`Throughput`<small>을 올릴 수 있다.</small>
 - <small>생산 흐름을 매끄럽게 제어하기 위해!</small>
 
-<img src="https://media.giphy.com/media/PoIn0cimHesHwvqFWE/giphy.gif" height="200"/>
+<img src="http://www.setheliot.com/blog/wp-content/uploads/2016/07/072016_1830_HowWIPLimit2.png"/>
+
+---
+# Kanban - `Limiting WIP`
+##### Not Good!
+# ![](http://www.setheliot.com/blog/wp-content/uploads/2016/07/072016_1830_HowWIPLimit3.png)
+
+---
+# Kanban - `Limiting WIP`
+##### Good!
+# ![](http://www.setheliot.com/blog/wp-content/uploads/2016/07/072016_1830_HowWIPLimit5.png)
 
 ---
 # Kanban - `Limiting WIP`
@@ -182,11 +171,8 @@
 
 ---
 # Kanban & Lean SD
-- `기민하게` 상품을 출시하기 위한 스케줄링 시스템
-- `Waste` Minimization
-  - <small>`WIP 제한`으로 Multitasking, Context Switching에서 생기는 낭비 제거</small>
-- `Value` Maximization
-  - <small>사용자가 원하는 기능, 제품을 `빠르게` 만들어낸다</small>
+##### `기민하게` 상품을 출시하기 위한 스케줄링 시스템
+##### `Waste` Minimization & `Customer Value` Maximization
 
 ---
 # Appendix A
@@ -194,8 +180,7 @@
 
 ---
 ## 4 Principles Lean Management
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wfsRAZUnonI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+###### <iframe width="560" height="315" src="https://www.youtube.com/embed/wfsRAZUnonI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 # 고맙습니다
