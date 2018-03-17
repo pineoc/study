@@ -8,6 +8,7 @@
 - [책: 칸반과 스크럼](Scrum-Kanban.md)
 - [스크럼 마스터는 뭘까?](Scrum-Master.md)
 - [김지영 님의 애자일이 도대체 뭐에요 영상 내용 정리](agile-youtube.md)
+- [Scrum Master Checklist 번역 작업](scrum-master-checklist.md)
 
 ## 참고하면 좋은 글
 
