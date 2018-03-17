@@ -10,4 +10,6 @@ TDD(Test Driven Development), 테스트 주도 개발방법을 공부하려 합�
 
 ## 공부 결과
 
-- Frontend TDD Start!: [++btn test index.html](frontend-tdd/index.html)
+- Frontend TDD Start!
+  - [++btn test index.html](frontend-tdd/index.html)
+  - [SpecRunner](frontend-tdd/SpecRunner.html)
