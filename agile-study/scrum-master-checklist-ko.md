@@ -1,16 +1,17 @@
-# Scrum Master Checklist
+# 스크럼 마스터 (Scrum Master) 체크 리스트
 
-Origin: http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf
+원본: http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf
 
 ## An Example Checklist for ScrumMasters
 
 - Michael James (mj4scrum@gmail.com)
 - 14 September 2007 (Revised 2 Feb 2016)
+- 역자: 이윤석(pineoc@naver.com)
+- 번역일: 2018.03.31
 
-### A Full Time Facilitator?
+### 스크럼 마스터는 언제나 조력자(페실리테이터, Facilitator)인가?
 
-An adequate ScrumMaster can handle two or three teams at a time. If you're content to limit your role to
-organizing meetings, enforcing timeboxes, and responding to the impediments people explicitly report, you can get by with part time attention to this role. The team will probably still exceed the baseline, pre-Scrum expectation at your organization, and probably nothing catastrophic will happen.
+보통의 스크럼 마스터는 한 번에 2-3 팀을 처리 할 수 있습니다. 역할을 제한하려는 콘텐츠가 있는 경우 모임을 조직하고, 시간 제한을 시행하고, 사람들이 명시 적으로 보고하는 장애물에 응답할 때, 이 역할에 시간을 들여 부분적으로 관심을 가질 수 있습니다. 팀은 여전히 기준선, 조직에서의 사전 스크럼 기대치를 초과 할 것이고 아마도 대격변은 일어나지 않을 것입니다.
 
 But if you can envision a team that has a great time accomplishing things no one previously thought possible, within a transformed organization, consider being a great ScrumMaster.
 
