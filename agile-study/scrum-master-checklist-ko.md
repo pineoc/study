@@ -13,25 +13,32 @@
 
 보통의 스크럼 마스터는 한 번에 2-3 팀을 처리 할 수 있습니다. 역할을 제한하려는 콘텐츠가 있는 경우 모임을 조직하고, 시간 제한을 시행하고, 사람들이 명시 적으로 보고하는 장애물에 응답할 때, 이 역할에 시간을 들여 부분적으로 관심을 가질 수 있습니다. 팀은 여전히 기준선, 조직에서의 사전 스크럼 기대치를 초과 할 것이고 아마도 대격변은 일어나지 않을 것입니다.
 
-But if you can envision a team that has a great time accomplishing things no one previously thought possible, within a transformed organization, consider being a great ScrumMaster.
+그러나 이전에 아무도 생각하지 못했던 일을 성취하기에 좋은 시간을 가진 팀을 상상할 수 있다면,  
+변화된 조직 내에서 훌륭한 스크럼 마스터가 되는 것을 고려해보시길 바랍니다.
 
-A great ScrumMaster can handle one team at a time.
+훌륭한 스크럼 마스터는 한 번에 한 팀을 다룰 수 있습니다.
 
-We recommend one dedicated ScrumMaster per team of about seven when starting out.
+<!--We recommend one dedicated ScrumMaster per team of about seven when starting out.-->
+프로젝트를 시작 시 약 7명의 팀에 하나의 전담 스크럼 마스터를 권장합니다.
 
-If you haven't discovered all the work there is to do, tune in to your Product Owner, your team, your team's engineering practices, and the organization outside your team. While there's no single prescription for everyone, I've outlined typical things I've seen ScrumMasters overlook. Please mark each box with √, ∆, ?, or N/A, as described on the last page.
+<!--If you haven't discovered all the work there is to do, tune in to your Product Owner, your team, your team's engineering practices, and the organization outside your team. While there's no single prescription for everyone, I've outlined typical things I've seen ScrumMasters overlook. Please mark each box with √, ∆, ?, or N/A, as described on the last page.-->
+할 일을 모두 찾지 못했다면 제품 소유자(Product Owner), 팀(team), 팀의 엔지니어링 사례 및 팀 외부 조직을 방문하십시오.  
+모두를 위한 처방전은 없지만 이 문서에서는 스크럼 마스터가 간과한 전형적인 것들에 대해 설명했습니다.  
+마지막 페이지에서 설명한대로 각 상자에 √, Δ, ? 또는 N/A를 표시하십시오.
 
-### Part 1, How Is My Product Owner Doing?
+### Part 1, 제품 소유자(Product Owner)는 무슨 일을 해야할까?
 
-ScrumMasters improve Product Owner effectiveness by helping them find ways to maintain the Product Backlog and release plan. (Note that the Product Owner is the one responsible for the prioritized backlog.)
+<!--ScrumMasters improve Product Owner effectiveness by helping them find ways to maintain the Product Backlog and release plan. (Note that the Product Owner is the one responsible for the prioritized backlog.)-->
+스크럼 마스터는 제품 백로그 및 릴리즈 계획을 유지 관리 할 수 있는 방법을 찾음으로써 제품 소유자의 효율성을 향상시킵니다.  
+(제품 소유자는 우선 순위가 지정된 백로그를 담당합니다.)
 
-- [ ] Is the Product Backlog prioritized according to his/her latest thinking?
-- [ ] Are requirements and desirements from all stakeholders captured in the Product Backlog? Remember: the backlog is emergent.
-- [ ] Is the Product Backlog a manageable size? To maintain a manageable number of items, keep things more granular towards the top, with general epics at the bottom. It's counterproductive to overanalyze too far past the top of the Product Backlog. Your requirements will change in an ongoing conversation between the developing product and the stakeholders/customers.
-- [ ] Could any requirements (especially those near the top of the Product Backlog) be better expressed as independent, negotiable, valuable, estimable, small, and testable [user stories][1]?
-- [ ] Have you educated your Product Owner about technical debt and how to avoid it? One piece of the puzzle may be to write automated test and refactoring into the definition of "done" for each backlog item.
-- [ ] Is the backlog an information radiator, immediately visible to all stakeholders?
-- [ ] If you're using an automated tool for backlog management, does everyone know how to use it easily? Automated management tools introduce the danger of becoming information refrigerators without active radiation from the ScrumMaster.
+- [ ] 그/그녀의 최근 생각에 따라 제품 백로그의 우선 순위가 결정됩니까?
+- [ ] 모든 이해 관계자의 필요 사항과 요구 사항이 제품 백로그에 포함되어 있습니까? 기억하세요: 백로그는 불시에 생겨납니다.
+- [ ] 제품 백로그는 관리 가능한 크기입니까? 관리 할 수 있는 항목 수를 유지하려면 맨 아래에 일반 서사와 함께 항목을 위쪽으로 더 세분화하십시오. 제품 백로그의 상단을 지나치게 분석하는 것은 비생산적입니다. 귀하의 요구 사항은 `개발중인 제품`과 `이해 관계자`/`고객` 간의 지속적인 대화에서 달라질 것입니다.
+- [ ] 요구 사항 (특히 제품 백 로그의 상단에있는 요구 사항)은 독립적이며, 협상 가능하며, 가치 있고, 예측 가능하고, 작고, 테스트 가능한 [사용자 스토리][1]로 잘 표현될 수 있습니까?
+- [ ] 제품 소유자에게 기술적 부채와 이를 피하는 방법에 대해 교육한 적이 있습니까? 퍼즐의 한 부분은 각 백로그 항목에 대해 "완료"의 정의에 자동화된 테스트 및 리팩토링을 작성하는 것일 수 있습니다.
+- [ ] 백로그는 모든 이해 관계자에게 즉각적으로 보이는 [정보 라디에이터(information radiator)](https://www.agilealliance.org/glossary/information-radiators/)입니까?
+- [ ] 백로그 관리를 위해 자동화된 도구를 사용하는 경우, 모든 사람이 쉽게 사용하는 방법을 알고 있습니까? 자동화된 관리 도구는 스크럼 마스터의 활성 방사선 없이 [정보 냉장고(information refrigerators)](https://www.solutionsiq.com/resource/blog-post/information-refrigerator/)가 될 위험이 있습니다.
 - [ ] Can you help radiate information by showing everyone printouts?
 - [ ] Can you help radiate information by creating big visible charts?
 - [ ] Have you helped your Product Owner organize backlog items into appropriate releases or priority groups?
