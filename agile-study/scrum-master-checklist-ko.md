@@ -45,18 +45,18 @@
 - [ ] 출시 계획이 아직 현실과 일치하는지 여부를 모두 알고 있습니까? 스프린트 검토 회의가 진행되는 동안 항목이 "완료"되었다고 인정되면 제품/출시 [번 다운 차트][2]를 모두 보여줄 수 있습니다. 실제로 완료된 PBI 비율과 새로 추가 된 PBI 비율을 보여주는 차트는 범위/일정 표류를 조기 발견할 수 있습니다.
 - [ ] 제품 소유자가 마지막 스프린트 검토 회의 이후에 릴리즈 계획을 조정 했습니까? 적절하게 테스트 된 제품을 전달하는 소수의 제품 소유자는 모든 Sprint의 출시 계획을 다시 계획합니다. 더 중요한 작업이 발견되면서 향후 릴리즈에서 일부 작업을 연기해야 할 수도 있습니다.
 
-### Part 2, How Is My Team Doing?
+### Part 2, 우리 팀은 어떻게하고 있습니까?
 
-While you are encouraged to lead by the example of collaborating with team members on their work, there is a risk you will get lost in technical tasks. Consider your primary responsibilities to the team:
+팀 구성원들과 협력하여 일하는 사례를 이끌어내는 것이 좋지만, 기술적인 업무에서 길을 잃을 위험이 있습니다. 팀에 대한 주요 책임 사항을 고려하세요.
 
-- [ ] Is your team in the state of flow? Some characteristics of this [state][3]:
-  - Clear goals (expectations and rules are discernible and goals are attainable, aligning appropriately with one's skill set and abilities).
-  - Concentration and focus, a high degree of concentration on a limited field of attention.
-  - A loss of the feeling of self-consciousness, the merging of action and awareness.
-  - Direct and immediate feedback (successes and failures in the course of the activity are apparent, so that behavior can be adjusted as needed).
-  - Balance between ability level and challenge (the activity is neither too easy nor too difficult).
-  - A sense of personal control over the situation or activity.
-  - The activity is intrinsically rewarding, so there is an effortlessness of action.
+- [ ] 팀이 흐름 상태입니까? [흐름 상태][3]의 일부 특성:
+  - 명확한 목표 (기대와 규칙은 식별 가능하며 목표는 달성 가능하며 기술의 집합과 능력에 따라 적절히 조정됩니다).
+  - 집중력과 초점, 제한된 관심 분야에 대한 높은 집중도.
+  - 자의식 감각 상실, 행동과 인식의 융합.
+  - 직접적이고 즉각적인 피드백 (활동 과정에서의 성공과 실패는 명백하므로 행동이 필요에 따라 조정될 수 있습니다).
+  - 능력 수준과 도전 사이의 균형 (활동이 너무 쉽지도 어렵지도 않은 상태).
+  - 상황이나 활동에 대한 개인적인 통제.
+  - 이 활동은 본질적으로 보람을 느끼므로 행동하기 쉽습니다.
 - [ ] Do team members seem to like each other, goof off together, and celebrate each other's success?
 - [ ] Do team members hold each other accountable to high standards, and challenge each other to grow?
 - [ ] Are there issues/opportunities the team isn't discussing because they're too [uncomfortable][4]?
