@@ -57,19 +57,19 @@
   - 능력 수준과 도전 사이의 균형 (활동이 너무 쉽지도 어렵지도 않은 상태).
   - 상황이나 활동에 대한 개인적인 통제.
   - 이 활동은 본질적으로 보람을 느끼므로 행동하기 쉽습니다.
-- [ ] Do team members seem to like each other, goof off together, and celebrate each other's success?
-- [ ] Do team members hold each other accountable to high standards, and challenge each other to grow?
-- [ ] Are there issues/opportunities the team isn't discussing because they're too [uncomfortable][4]?
-- [ ] Have you tried a variety of formats and locations for [Sprint Retrospective Meetings][5]?
-- [ ] Has the team kept focus on Sprint goals? Perhaps you should conduct a mid-Sprint checkup to re-review the acceptance criteria of the Product Backlog Items committed for this Sprint.
-- [ ] Does the Sprint taskboard reflect what the team is actually doing? Beware the “dark matter” of undisclosed tasks and tasks bigger than one day’s work. Tasks not related to Sprint commitments are impediments to those commitments.
-- [ ] Does your team have 3-9 people with a sufficient mix of skills to build a potentially shippable product increment?
-- [ ] Is your team's taskboard up to date?
-- [ ] Are the team self-management artifacts visible to the team, convenient for the team to use?
-- [ ] Are these artifacts adequately protected from meddlers? Excess scrutiny of daily activity by people outside the team may impede team internal transparency and self management.
-- [ ] Do team members volunteer for tasks?
-- [ ] Has the need for technical debt repayment been made explicit in the definition of done, gradually making the code a more pleasant place to work?
-- [ ] Are team members leaving their job titles at the door of the team room, collectively responsible for all aspects of agreed work (testing, user documentation, etc.)?
+- [ ] 팀원들이 서로를 좋아하고, 함께하고, 서로의 성공을 축하하는 것처럼 보입니까?
+- [ ] 팀 구성원들이 서로 간의 높은 기준에 대한 책임을 지고 서로에게 성장하도록 도전합니까?
+- [ ] 팀이 너무 [불편][4]하기 때문에 논의하지 않는 문제/기회가 있습니까?
+- [ ] [Sprint Retrospective Meetings][5]의 다양한 형식과 위치를 시도해 보셨습니까?
+- [ ] 팀은 스프린트 목표에 계속 집중 했습니까? 아마도 스프린트에 대해 커밋된 제품 백로그 항목의 수락 기준을 다시 검토하기 위해 중간 스프린트 진단을 해야합니다.
+- [ ] Sprint 작업 보드가 팀이 실제로 하고있는 것을 반영합니까? 하루 분량의 일보다 큰 비공개 과제와 과제의 "암흑 물질"을 조심하십시오. 스프린트 약속과 관련이 없는 작업은 이러한 약속에 대한 장애물입니다.
+- [ ] 당신의 팀에는 잠재적으로 출하 가능한 제품을 증가시킬 수 있는 충분한 기술을 보유한 3-9명의 직원이 있습니까?
+- [ ] 당신의 팀의 작업보드는 최신의 상태입니까?
+- [ ] 팀이 사용하기에 편리하도록 팀이 자체 관리 아티팩트들을 볼 수 있습니까?
+- [ ] 이러한 아티팩트들이 간섭하려는 사람들로부터 적절히 보호되고 있습니까? 팀 외부 사람들에 의한 일상 활동의 과도한 조사는 팀 내부의 투명성과 자기 관리를 저해할 수 있습니다.
+- [ ] 팀원들이 일에 지원을 합니까?
+- [ ] 기술 부채 상환의 필요성이 이행의 정의에서 명확하게 드러나 점차적으로 코드를 개발하기에 더 좋은 곳으로 만들었습니까?
+- [ ] 팀 구성원이 합의된 업무(테스팅, 사용자 문서 등)의 모든 측면에 대해 총괄하여 자신의 직책을 팀 문앞에 남겨두고 있습니까?
 
 ### Part3, How Are Our Engineering Practices Doing?
 
