@@ -71,11 +71,11 @@
 - [ ] 기술 부채 상환의 필요성이 이행의 정의에서 명확하게 드러나 점차적으로 코드를 개발하기에 더 좋은 곳으로 만들었습니까?
 - [ ] 팀 구성원이 합의된 업무(테스팅, 사용자 문서 등)의 모든 측면에 대해 총괄하여 자신의 직책을 팀 문앞에 남겨두고 있습니까?
 
-### Part3, How Are Our Engineering Practices Doing?
+### Part3, 당사의 엔지니어링 실무는 어떻게 진행되고 있습니까??
 
-- [ ] Does your system in development have a "push to test" button allowing anyone (same team or different team) to conveniently detect when they've caused a regression failure (broken previously-working functionality)? Typically this is achieved through the xUnit framework (JUnit, NUnit, etc.).
-- [ ] Do you have an appropriate balance of automated end-to-end system tests (a.k.a. "functional tests") and automated unit tests?
-- [ ] Is the team writing both system tests and unit tests in the same language as the system they're developing? Collaboration is not enhanced by proprietary scripting languages or capture playback tools that only a subset of the team knows how to maintain.
+- [ ] 개발 중인 시스템에 "테스트 푸시" 버튼이 있어(같은 팀이나 다른 팀의) 재발생한 장애(이전 작업 기능 중단)를 일으킨 경우 누군가가 편리하게 감지할 수 있습니까? 일반적으로 이것은 xUnit 프레임워크(Junit, Nunit등)를 통해 이루어집니다.
+- [ ] 자동화된 end-to-end 시스템 테스트("기능 테스트"라고도 함)와 자동화된 유닛 테스트의 적절한 균형을 보유하고 있습니까?
+- [ ] 팀이 개발 중인 시스템과 동일한 언어로 시스템 테스트와 유닛 테스트를 모두 작성하고 있습니까? 협업은 독점적 스크립팅 언어 또는 팀의 일부만 유지 관리 방법을 알고 있는 캡처 재생 도구에 의해 강화되지 않습니다.
 - [ ] Has your team discovered the useful gray area between system tests and [unit tests][6]?
 - [ ] Does a [continuous integration][7] server automatically sound an alarm when someone causes a regression 7 failure? Can this feedback loop be reduced to hours or minutes? ("Daily builds are for wimps." -- Kent Beck)
 - [ ] Do all tests roll up into the continuous integration server result?
