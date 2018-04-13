@@ -76,12 +76,12 @@
 - [ ] 개발 중인 시스템에 "테스트 푸시" 버튼이 있어(같은 팀이나 다른 팀의) 재발생한 장애(이전 작업 기능 중단)를 일으킨 경우 누군가가 편리하게 감지할 수 있습니까? 일반적으로 이것은 xUnit 프레임워크(Junit, Nunit등)를 통해 이루어집니다.
 - [ ] 자동화된 end-to-end 시스템 테스트("기능 테스트"라고도 함)와 자동화된 유닛 테스트의 적절한 균형을 보유하고 있습니까?
 - [ ] 팀이 개발 중인 시스템과 동일한 언어로 시스템 테스트와 유닛 테스트를 모두 작성하고 있습니까? 협업은 독점적 스크립팅 언어 또는 팀의 일부만 유지 관리 방법을 알고 있는 캡처 재생 도구에 의해 강화되지 않습니다.
-- [ ] Has your team discovered the useful gray area between system tests and [unit tests][6]?
-- [ ] Does a [continuous integration][7] server automatically sound an alarm when someone causes a regression 7 failure? Can this feedback loop be reduced to hours or minutes? ("Daily builds are for wimps." -- Kent Beck)
-- [ ] Do all tests roll up into the continuous integration server result?
-- [ ] Have team members discovered the joy of continuous design and [constant refactoring][8], as an alternative to 8 Big Up Front Design? Refactoring has a strict definition: changing internal structure without changing external behavior. Refactoring should occur several times per hour, whenever there is duplicate code, complex conditional logic (visible by excess indenting or long methods), poorly named identifiers, excessive coupling between objects, etc. Refactoring with confidence is only possible with automated test coverage. Neglecting refactoring makes it hard to change the product in the future, especially since it’s hard to find good developers willing to work on bad code.
-- [ ] Does your definition of "done" for each Product Backlog Item include full automated test coverage and refactoring? Learning Test Driven Development (TDD) increases the probability of achieving this.
-- [ ] Are team members pair programming most of the time? Pair programming may dramatically increase code maintainability and reduce bug rates. It challenges people's boundaries and sometimes seems to take longer (if we measure by lines of code rather than shippable functionality). Lead by example by initiating paired workdays with team members. Some of them will start to prefer working this way.
+- [ ] 팀이 시스템 테스트와 [유닛 테스트][6] 사이의 유용한 회색 영역을 발견했습니까?
+- [ ] 누군가 7가지 회귀 실패를 일으킬 경우 [지속적인 통합][7] 서버가 자동으로 알람을 울려줍니까? 이 피드백 루프를 몇 시간 또는 몇 분으로 줄일 수 있습니까? ("매일 짓는 건축물은 약한 자들을 위한 것이다."-켄트 벡)
+- [ ] 모든 테스트가 지속적인 통합 서버 결과에 반영됩니까?
+- [ ] 8개의 빅 업 프론트 디자인 대신에 지속적인 디자인과 지속적인 리팩토링의 즐거움을 팀원들이 발견했습니까? 리팩토링은 엄격한 정의를 가지고 있습니다. 즉, 외부의 행동을 변경하지 않고 내부 구조를 변경하는 것입니다. 리팩토링은 중복 코드, 복잡한 조건 로직(과도한 삽입이나 긴 방법으로 볼 수 있음), 형편없이 명명된 식별자, 개체 간의 과도한 연결 등이 있을 때 시간마다 몇번씩 발생해야 합니다. 신뢰할 수 있는 방법으로 리팩토링하는 것은 자동화된 테스트 범위에서만 가능합니다. 리팩토링을 무시하면 향후 제품을 변경하기가 어려워집니다. 특히 나쁜 코드를 기꺼이 개발할 좋은 개발자를 찾기가 어려울 수 있습니다.
+- [ ] 각 제품 배경 품목의 "완료"에 대한 정의에 완전 자동화된 테스트 적용 범위와 리팩토링이 포함되어 있습니까? 테스트 중심의 개발(TDD)을 학습하면 이 목표를 달성할 확률이 높아집니다.
+- [ ] 팀원들이 대부분의 시간을 짝 프로그래밍 방식으로 진행힙니까? 짝 프로그래밍은 코드 유지 관리 가능성을 획기적으로 높이고 버그 발생률을 줄일 수 있습니다. 사람들의 경계에 도전하고 때로는 더 오래 걸리는 것처럼 보입니다. (우리가 전달할 기능보다는 코드 라인으로 측정하는 경우) 팀원들과 짝을 이루는 작업일을 시작함으로써 모범을 보이십시오. 그들 중 일부는 이런 식으로 일하는 것을 더 좋아할 것입니다.
 
 ### Part 4, How Is The Organization Doing?
 
