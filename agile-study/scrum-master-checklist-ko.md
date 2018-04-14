@@ -71,7 +71,7 @@
 - [ ] 기술 부채 상환의 필요성이 이행의 정의에서 명확하게 드러나 점차적으로 코드를 개발하기에 더 좋은 곳으로 만들었습니까?
 - [ ] 팀 구성원이 합의된 업무(테스팅, 사용자 문서 등)의 모든 측면에 대해 총괄하여 자신의 직책을 팀 문앞에 남겨두고 있습니까?
 
-### Part3, 당사의 엔지니어링 실무는 어떻게 진행되고 있습니까??
+### Part 3, 당사의 엔지니어링 실무는 어떻게 진행되고 있습니까?
 
 - [ ] 개발 중인 시스템에 "테스트 푸시" 버튼이 있어(같은 팀이나 다른 팀의) 재발생한 장애(이전 작업 기능 중단)를 일으킨 경우 누군가가 편리하게 감지할 수 있습니까? 일반적으로 이것은 xUnit 프레임워크(Junit, Nunit등)를 통해 이루어집니다.
 - [ ] 자동화된 end-to-end 시스템 테스트("기능 테스트"라고도 함)와 자동화된 유닛 테스트의 적절한 균형을 보유하고 있습니까?
@@ -83,15 +83,15 @@
 - [ ] 각 제품 배경 품목의 "완료"에 대한 정의에 완전 자동화된 테스트 적용 범위와 리팩토링이 포함되어 있습니까? 테스트 중심의 개발(TDD)을 학습하면 이 목표를 달성할 확률이 높아집니다.
 - [ ] 팀원들이 대부분의 시간을 짝 프로그래밍 방식으로 진행힙니까? 짝 프로그래밍은 코드 유지 관리 가능성을 획기적으로 높이고 버그 발생률을 줄일 수 있습니다. 사람들의 경계에 도전하고 때로는 더 오래 걸리는 것처럼 보입니다. (우리가 전달할 기능보다는 코드 라인으로 측정하는 경우) 팀원들과 짝을 이루는 작업일을 시작함으로써 모범을 보이십시오. 그들 중 일부는 이런 식으로 일하는 것을 더 좋아할 것입니다.
 
-### Part 4, How Is The Organization Doing?
+### Part 4, 조직은 어떻게 되어가고 있습니까?
 
-- [ ] Is the appropriate amount of inter-team communication happening? “Scrum of Scrums” is only one way to achieve this, and rarely the [best][9].
-- [ ] Are teams independently able to produce working features, even [spanning architectural boundaries][10]?
-- [ ] Are your ScrumMasters meeting with each other, working the organizational impediments list?
-- [ ] When appropriate, are the organizational impediments pasted to the wall of the development director's office? Can the cost be quantified in dollars, lost time to market, lost quality, or lost customer opportunities? (But learn from Ken Schwaber's mistakes: ["A dead ScrumMaster is a useless ScrumMaster."][11])
-- [ ] Is your organization one of the few with career paths compatible with the collective goals of your teams? Answer "no" if there's a [career incentive][12] to do programming or architecture work at the expense of testing, test automation, or user documentation.
-- [ ] Has your organization been recognized by the trade press or other independent sources as one of the best places to work, or a leader in your industry?
-- [ ] Are you creating a learning organization?
+- [ ] 적절한 양의 팀 간 의사 소통이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 유일한 방법이며, [가장 좋은 방법][9]은 아닙니다.
+- [ ] [아키텍처 경계를 넘어서][10], 팀이 독립적으로 작업 기능을 생산할 수 있습니까?
+- [ ] 당신의 스크럼 마스터가 서로 만나서 조직적 장애물(impediments) 리스트를 작성하고 있습니까?
+- [ ] 해당 시, 조직 장애물이 개발 책임자 사무실 벽에 붙어 있습니까? 비용 달러화, 시장 진출 시간 단축, 품질 저하 또는 고객 기회 상실로 정량화 할 수 있습니까? (그러나 Ken Schwaber의 실수로부터 배우십시오: ["A dead ScrumMaster is a useless ScrumMaster."][11])
+- [ ] 귀사는 경력 개발을 위해 팀의 공동 목표와 호환되는 몇 안 되는 기업 중 하나입니까? 테스트, 테스트 자동화 또는 사용자 문서를 희생하여 프로그래밍 또는 아키텍처 작업을 수행하는 [경력 인센티브]가 있으면 "아니오"로 대답하십시오.
+- [ ] 귀사는 무역 언론 또는 기타 독립 공급 업체로부터 귀사의 가장 일하기 좋은 기업 또는 업계 리더로 인정 받았습니까?
+- [ ] 학습 조직을 만들고 있습니까?
 
 ### Conclusion
 
