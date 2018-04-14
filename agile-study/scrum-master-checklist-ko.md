@@ -6,10 +6,10 @@
 
 - Michael James (mj4scrum@gmail.com)
 - 14 September 2007 (Revised 2 Feb 2016)
-- 역자: 이윤석(pineoc@naver.com)
+- 역자: 이윤석(@pineoc)
 - 번역일: 2018.03.31
 
-### 스크럼 마스터는 언제나 조력자(페실리테이터, Facilitator)인가?
+### 스크럼 마스터는 언제나 조력자(퍼실리테이터, Facilitator)인가?
 
 보통의 스크럼 마스터는 한 번에 2-3 팀을 처리 할 수 있습니다. 역할을 제한하려는 콘텐츠가 있는 경우 모임을 조직하고, 시간 제한을 시행하고, 사람들이 명시 적으로 보고하는 장애물에 응답할 때, 이 역할에 시간을 들여 부분적으로 관심을 가질 수 있습니다. 팀은 여전히 기준선, 조직에서의 사전 스크럼 기대치를 초과 할 것이고 아마도 대격변은 일어나지 않을 것입니다.
 
@@ -93,41 +93,41 @@
 - [ ] 귀사는 무역 언론 또는 기타 독립 공급 업체로부터 귀사의 가장 일하기 좋은 기업 또는 업계 리더로 인정 받았습니까?
 - [ ] 학습 조직을 만들고 있습니까?
 
-### Conclusion
+### 결론
 
-If you can check off most of these items and still have time left during the day, I’d like to hear from you.
+만약 당신이 이 목록들의 대부분을 체크하고도 시간이 남았다면, 당신으로부터 의견을 듣고 싶습니다.
 
-There’s no canned formula for creating human ingenuity. This paper lists points which may, or may not, help in your situation.
+인간의 독창성을 창조할 수 있는 통조림 형태는 없습니다. 이 문서에는 상황에 도움이 될 수도 있고 그렇지 않을 수도 있는 요점이 나열되어 있습니다.
 
-Once you start to realize what you could do to make a difference, you may find yourself afraid to do it. This is a sign you're on the right track.
+일단 당신이 변화를 만들기 위해 무엇을 할 수 있는지 깨닫기 시작하면, 두려워 할 수도 있습니다. 이것은 올바른 방향의 신호입니다.
 
-## Attachment
+## 첨부
 
-### Organizational Impediment Form
+### 조직의 방해물 양식
 
-- Surface issue:
-- Root cause (Use five times “Why?”):
-- Business Impact:
-- Emotional Impact:
-- Clear, actionable request:
+- 표면적 문제:
+- 근본 원인: (5번의 "왜?"를 사용하십시오):
+- 사업적 영향:
+- 감정적 영향:
+- 명확하고 실행 가능한 요청:
 
-### INSTRUCTIONS
+### 지침
 
-If you have received this checklist as a training assignment and your current (or most recent) employer has been attempting anything like Scrum, please apply this to what you’ve seen there. Mark each item with one of the following:
+만일 당신이 훈련 과제로 이 체크 리스트를 받았고, 당신의 현재(또는 가장 최근의)고용주가 스크럼 같은 것을 시도하고 있다면, 이것을 그곳에서 본것에 적용하시오. 다음 중 하나를 사용하여 각 항목에 표시하십시오:
 
-- √ (for “doing well”)
-- ∆ (for “could be improved and I know how to start”)
-- ? (for “could be improved, but how?”)
-- N/A (for “not applicable” or “would provide no benefit”)
+- √ ("잘한 것")
+- ∆ ("개선 될 수 있으며 시작하는 방법을 알고 있음")
+- ? ("개선 될 수 있으나, 어떻게 하는지 모름")
+- N/A ("해당 사항 없음" 또는 "아무런 도움이 되지 않을 것")
 
-Or, if your current (or most recent) employer has not been attempting anything like Scrum, mark each item with one of the following:
+또는 현재(또는 가장 최근) 고용주가 스크럼과 같은 것을 시도하지 않았다면 각 항목을 다음과 같은 항목을 표시하십시오:
 
-- √ (for “doing well” or “would be easy to do well”)
-- ∆ (for “would be a challenge and I know how to start”)
-- ? (for “would be a challenge and I don’t know how to start”)
-- N/A (for “not applicable” or “would provide no benefit”)
+- √ ("잘한 것" 또는 "잘할 수 있는 것")
+- ∆ ("도전해볼만 하고, 시작하는 법을 알고 있음")
+- ? ("도전해볼만 하지만, 시작하는 법을 모름")
+- N/A ("해당 사항 없음" 또는 "아무런 도움이 되지 않을 것")
 
-When all items are marked, declare 2-6 organizational impediments on the attached Organizational Impediment Forms, whether or not they’re derived from this checklist. Choose impediments you have at least 1% hope of changing.
+모든 항목이 표시되면, 첨부된 조직적 장애물 확인서의 점검 목록에서 파생되었는지 여부와 상관없이 2-6 개의 조직적 장애물을 신고하십시오. 바꿀 수 있다는 희망을 적어도 1%는 가지고 있는 장애물을 선택하십시오.
 
 [1]: http://xp123.com/xplor/xp0308/index.shtml%06
 [2]: https://www.amazon.com/exec/obidos/ASIN/0131479415/mountaingoats-20
