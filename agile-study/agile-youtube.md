@@ -1,6 +1,6 @@
 # 김지영 님의 유튜브 영상, `애자일이 도대체 뭐에요?` 요약
 
-https://youtu.be/yl4gHBtabI4  
+<https://youtu.be/yl4gHBtabI4>  
 일반인이 `애자일은 무엇인가?` 하는 것을 외계인(개발자)들에게 들어보는 영상.
 
 ## 방송 정보
@@ -195,8 +195,8 @@ https://youtu.be/yl4gHBtabI4
 공용준: 전문가 이야기가 나와서 생각이 드는 것은 전문가도 처음이 있었을 것이고 실패와 성공을 거듭하면서 성장했을 거라고 생각한다. 변화가 많은 상황에서 그에 대응해서 진행하는 것이고 전문가가 없어도 할 수는 있으니 전문가가 꼭 필요하다고는 생각하지 않는다. 물론 전문가가 없으면 자신감은 없을 수 있지만.
 
 (광고 시간)
-- 케빈TV: https://www.youtube.com/channel/UCsOJxLxzQl8IbwGS-Cp5t8w
-- 엔지니어를 위한 정치: https://www.facebook.com/groups/engineerpolictics/
+- 케빈TV: <https://www.youtube.com/channel/UCsOJxLxzQl8IbwGS-Cp5t8w>
+- 엔지니어를 위한 정치: <https://www.facebook.com/groups/engineerpolictics/>
 
 공용준: 애자일을 도입했을 때 매니저가 좋아함. 모든 사람이 일하는 모습을 볼 수 있어서. 가시성이 좋은 장점이 있음. 그래서 힘든 것이 있으면 도와줄 수 있는 것이 이점. 다른 팀과 도와주는 것은 다른 이야기이긴 하지만. 스크럼 마스터는 매니저급이 볼 수 있는 것들이 많기 때문에 부장과 같은 직급의 사람이 해야 한다고 생각함. 막내가 데일리 스크럼을 하자고 이야기하는 것이 아니라.
 
