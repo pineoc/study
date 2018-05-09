@@ -12,6 +12,10 @@
   - 원본: [scrum-master-checklist](scrum-master-checklist.md)
   - 번역본: [scrum-master-checklist-ko](scrum-master-checklist-ko.md)
 
+## Meet-up
+
+- [Agile Korea Conference May Meetup](agile-korea-meetup5.md)
+
 ## 참고하면 좋은 글
 
 - [애자일 소프트웨어 개발 선언문](http://agilemanifesto.org/iso/ko/manifesto.html)
