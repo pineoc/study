@@ -9,42 +9,61 @@
 - 역자: 이윤석(@pineoc)
 - 번역일: 2018.03.31
 
+<!--A Full Time Facilitator?-->
 ### 스크럼 마스터는 언제나 조력자(퍼실리테이터, Facilitator)인가?
 
-보통의 스크럼 마스터는 한 번에 2-3 팀을 처리할 수 있습니다. 역할을 제한하려는 콘텐츠가 있는 경우 모임을 조직하고, 시간제한을 시행하고, 사람들이 명시 적으로 보고하는 장애물에 응답할 때, 이 역할에 시간을 들여 부분적으로 관심을 가질 수 있습니다. 팀은 여전히 기준선, 조직에서의 사전 스크럼 기대치를 초과 할 것이고 아마도 대격변은 일어나지 않을 것입니다.
+<!--An adequate ScrumMaster can handle two or three teams at a time. If you're content to limit your role to
+organizing meetings, enforcing timeboxes, and responding to the impediments people explicitly report, you can get by with part time attention to this role. The team will probably still exceed the baseline, pre-Scrum expectation at your organization, and probably nothing catastrophic will happen.-->
+좋은 스크럼 마스터는 한 번에 2-3 팀을 처리할 수 있습니다. 역할을 제한하려는 콘텐츠가 있는 경우 모임을 조직하고, 시간 제한을 적용하고, 사람들이 명시적으로 보고하는 장애물에 대응하면, 당신은 이 역할에 대한 부분적이고 시간적인 주의를 기울일 수 있습니다. 팀은 여전히 기준선을 초과하고, 조직에서의 사전 스크럼 예상을 초과할 것이며, 어떠한 치명적인 일도 일어나지 않을 것입니다.
 
-그러나 이전에 아무도 생각하지 못했던 일을 성취하기에 좋은 시간을 가진 팀을 상상할 수 있다면,  
+<!--But if you can envision a team that has a great time accomplishing things no one previously thought possible, within a transformed organization, consider being a great ScrumMaster.-->
+그러나 이전에 아무도 가능하다고 생각하지 않았던 일을 해낼 수 있는 팀을 상상할 수 있다면,  
 변화된 조직 내에서 훌륭한 스크럼 마스터가 되는 것을 고려해보시길 바랍니다.
 
+<!--A great ScrumMaster can handle one team at a time.-->
 훌륭한 스크럼 마스터는 한 번에 한 팀을 다룰 수 있습니다.
 
 <!--We recommend one dedicated ScrumMaster per team of about seven when starting out.-->
-프로젝트를 시작 시 약 7명의 팀에 하나의 전담 스크럼 마스터를 권장합니다.
+프로젝트를 시작할 때, 약 7명의 팀에 하나의 전담 스크럼 마스터를 권장합니다.
 
 <!--If you haven't discovered all the work there is to do, tune in to your Product Owner, your team, your team's engineering practices, and the organization outside your team. While there's no single prescription for everyone, I've outlined typical things I've seen ScrumMasters overlook. Please mark each box with √, ∆, ?, or N/A, as described on the last page.-->
-할 일을 모두 찾지 못했다면 제품 소유자(Product Owner), 팀(Team), 팀의 엔지니어링 사례 및 팀 외부 조직을 방문하십시오.  
-모두를 위한 처방전은 없지만 이 문서에서는 스크럼 마스터가 간과한 전형적인 것들에 대해 설명했습니다.  
-마지막 페이지에서 설명한 대로 각 상자에 √, Δ, ? 또는 N/A를 표시하십시오.
+해당 팀에서 수행해야 할 작업을 모두 찾지 못한 경우에는 제품 소유자, 팀, 팀의 엔지니어링 관행 및 팀 외부 조직에 문의하십시오.  
+모두를 위한 처방전은 없지만 이 문서에서는 스크럼 마스터들이 간과하고 있는 전형적인 것들에 대해 설명했습니다.  
+마지막 페이지에서 설명한 대로 각 상자에 √, Δ, ? 또는 N/A를 표시하시기 바랍니다.
 
+<!--Part 1, How Is My Product Owner Doing?-->
 ### Part 1, 제품 소유자(Product Owner)는 무슨 일을 해야할까?
 
 <!--ScrumMasters improve Product Owner effectiveness by helping them find ways to maintain the Product Backlog and release plan. (Note that the Product Owner is the one responsible for the prioritized backlog.)-->
-스크럼 마스터는 제품 백로그 및 릴리즈 계획을 유지 관리할 수 있는 방법을 찾음으로써 제품 소유자의 효율성을 향상합니다.  
+스크럼 마스터는 제품 백로그 및 릴리즈 계획을 유지 관리할 수 있는 방법을 찾아 제품 소유자의 효율성을 향상합니다.  
 (제품 소유자는 우선 순위가 지정된 백로그를 담당합니다.)
 
-- [ ] 그/그녀의 최근 생각에 따라 제품 백로그의 우선순위가 결정됩니까?
+<!--Is the Product Backlog prioritized according to his/her latest thinking?-->
+- [ ] 그/그녀의 최근 생각에 따라 제품 백로그의 우선 순위가 결정됩니까?
+<!--Are requirements and desirements from all stakeholders captured in the Product Backlog? Remember: the backlog is emergent.-->
 - [ ] 모든 이해 관계자의 필요 사항과 요구 사항이 제품 백로그에 포함되어 있습니까? 기억하세요: 백로그는 불시에 생겨납니다.
-- [ ] 제품 백로그는 관리 가능한 크기입니까? 관리할 수 있는 항목 수를 유지하려면 맨 아래에 일반 서사와 함께 항목을 위쪽으로 더 세분화하십시오. 제품 백로그의 상단을 지나치게 분석하는 것은 비생산적입니다. 귀하의 요구 사항은 `개발 중인 제품`과 `이해 관계자`/`고객` 간의 지속적인 대화에서 달라질 것입니다.
+<!--Is the Product Backlog a manageable size? To maintain a manageable number of items, keep things more granular towards the top, with general epics at the bottom. It's counterproductive to overanalyze too far past the top of the Product Backlog. Your requirements will change in an ongoing conversation between the developing product and the stakeholders/customers.-->
+- [ ] 제품 백로그는 관리 가능한 크기입니까? 관리 가능한 수의 항목을 유지하려면 맨 아래에 일반적인 구문을 사용하여 맨 위 쪽으로 더 세분화된 항목을 유지합니다. 제품 백로그의 상단을 지나치게 오래 분석하는 것은 비생산적입니다. 귀하의 요구 사항은 `개발 중인 제품`과 `이해 관계자`/`고객` 간의 지속적인 대화를 통해 달라질 것입니다.
+<!--Could any requirements (especially those near the top of the Product Backlog) be better expressed as independent, negotiable, valuable, estimable, small, and testable [user stories][1]?-->
 - [ ] 요구 사항 (특히 제품 백 로그의 상단에 있는 요구 사항)은 독립적이며, 협상 가능하며, 가치 있고, 예측 가능하고, 작고, 테스트 가능한 [사용자 스토리][1]로 잘 표현될 수 있습니까?
-- [ ] 제품 소유자에게 기술적 부채와 이를 피하는 방법에 대해 교육한 적이 있습니까? 퍼즐의 한 부분은 각 백로그 항목에 대해 "완료"의 정의에 자동화된 테스트 및 리팩토링을 작성하는 것일 수 있습니다.
+<!--Have you educated your Product Owner about technical debt and how to avoid it? One piece of the puzzle may be to write automated test and refactoring into the definition of "done" for each backlog item.-->
+- [ ] 제품 소유자에게 기술 부채와 이를 피하는 방법에 대해 교육한 적이 있습니까? 퍼즐의 한 부분은 각 백로그 항목에 대해 "완료"의 정의에 의해 자동화된 테스트 및 리팩토링을 작성하는 것일 수 있습니다.
+<!--Is the backlog an information radiator, immediately visible to all stakeholders?-->
 - [ ] 백로그는 모든 이해 관계자에게 즉각적으로 보이는 [정보 라디에이터(information radiator)](https://www.agilealliance.org/glossary/information-radiators/)입니까?
-- [ ] 백로그 관리를 위해 자동화된 도구를 사용하는 경우, 모든 사람이 쉽게 사용하는 방법을 알고 있습니까? 자동화된 관리 도구는 스크럼 마스터의 적극적인 공유가 없으면 [정보 냉장고(information refrigerators)](https://www.solutionsiq.com/resource/blog-post/information-refrigerator/)가 될 위험이 있습니다.
+<!--If you're using an automated tool for backlog management, does everyone know how to use it easily? Automated management tools introduce the danger of becoming information refrigerators without active radiation from the ScrumMaster.-->
+- [ ] 백로그 관리를 위해 자동화된 도구를 사용하는 경우, 모든 사람이 그 도구를 쉽게 사용하는 방법을 알고 있습니까? 자동화된 관리 도구는 스크럼 마스터의 적극적인 공유가 없으면 [정보 냉장고(information refrigerators)](https://www.solutionsiq.com/resource/blog-post/information-refrigerator/)가 될 위험이 있습니다.
+<!--Can you help radiate information by showing everyone printouts?-->
 - [ ] 모든 사람에게 출력물을 보여줌으로써 정보를 공유할 수 있습니까?
+<!--Can you help radiate information by creating big visible charts?-->
 - [ ] 눈에 보이는 큰 차트를 만들어 정보를 공유할 수 있습니까?
-- [ ] 제품 소유자가 백로그 항목을 적절한 릴리즈 또는 우선순위 그룹으로 구성하도록 도왔습니까?
-- [ ] 출시 계획이 아직 현실과 일치하는지 여부를 모두 알고 있습니까? 스프린트 검토 회의가 진행되는 동안 항목이 "완료"되었다고 인정되면 제품/출시 [번 다운 차트][2]를 모두 보여줄 수 있습니다. 실제로 완료된 PBI 비율과 새로 추가된 PBI 비율을 보여주는 차트는 범위/일정 표류를 조기 발견할 수 있습니다.
-- [ ] 제품 소유자가 마지막 스프린트 검토 회의 이후에 릴리즈 계획을 조정했습니까? 적절하게 테스트된 제품을 전달하는 소수의 제품 소유자는 모든 스프린트의 출시 계획을 다시 계획합니다. 더 중요한 작업이 발견되면서 향후 릴리즈에서 일부 작업을 연기해야 할 수도 있습니다.
+<!--Have you helped your Product Owner organize backlog items into appropriate releases or priority groups?-->
+- [ ] 제품 소유자가 백로그 항목을 적절한 릴리즈 또는 우선 순위 그룹으로 구성할 수 있도록 도왔습니까?
+<!--Does everyone know whether the release plan still matches reality? You might try showing everyone Product/Release [Burndown Charts][2] after the items have been acknowledged as “done” during every Sprint Review Meeting. Charts showing both the rate of PBIs actually completed and new ones added allow early discovery of scope/schedule drift.-->
+- [ ] 모두가 출시 계획이 아직 현실과 일치하는지 여부를 모두 알고 있습니까? 스프린트 검토 회의가 진행되는 동안 항목이 "완료"되었다고 인정되면 제품/출시 [번 다운 차트][2]를 모두 보여줄 수 있습니다. 실제로 완료된 PBI 비율과 새로 추가된 PBI 비율을 보여주는 차트를 통해 범위/일정의 표류를 조기에 발견할 수 있습니다.
+<!--Did your Product Owner adjust the release plan after the last Sprint Review Meeting? The minority of Product Owners who ship adequately tested products on time re-plan the release every Sprint. This probably requires deferring some work for future releases as more important work is discovered.-->
+- [ ] 제품 소유자가 마지막 스프린트 검토 회의 이후에 릴리즈 계획을 조정했습니까? 적절한 테스트를 거친 제품을 `제 시간`에 발송하는 소수의 제품 소유자들은 모든 스프린트의 출시를 다시 계획합니다. 이는 보다 중요한 작업이 발견됨에 따라 향후 릴리즈들을 위해 약간의 작업 지연을 요구할 수 있습니다.
 
+<!--Part 2, How Is My Team Doing?-->
 ### Part 2, 우리 팀은 어떻게 하고 있습니까?
 
 팀 구성원들과 협력하여 일하는 사례를 이끌어내는 것이 좋지만, 기술적인 업무에서 길을 잃을 위험이 있습니다. 팀에 대한 주요 책임 사항을 고려하세요.
