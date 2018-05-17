@@ -61,35 +61,58 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Does everyone know whether the release plan still matches reality? You might try showing everyone Product/Release [Burndown Charts][2] after the items have been acknowledged as “done” during every Sprint Review Meeting. Charts showing both the rate of PBIs actually completed and new ones added allow early discovery of scope/schedule drift.-->
 - [ ] 모두가 출시 계획이 아직 현실과 일치하는지 여부를 모두 알고 있습니까? 스프린트 검토 회의가 진행되는 동안 항목이 "완료"되었다고 인정되면 제품/출시 [번 다운 차트][2]를 모두 보여줄 수 있습니다. 실제로 완료된 PBI 비율과 새로 추가된 PBI 비율을 보여주는 차트를 통해 범위/일정의 표류를 조기에 발견할 수 있습니다.
 <!--Did your Product Owner adjust the release plan after the last Sprint Review Meeting? The minority of Product Owners who ship adequately tested products on time re-plan the release every Sprint. This probably requires deferring some work for future releases as more important work is discovered.-->
-- [ ] 제품 소유자가 마지막 스프린트 검토 회의 이후에 릴리즈 계획을 조정했습니까? 적절한 테스트를 거친 제품을 `제 시간`에 발송하는 소수의 제품 소유자들은 모든 스프린트의 출시를 다시 계획합니다. 이는 보다 중요한 작업이 발견됨에 따라 향후 릴리즈들을 위해 약간의 작업 지연을 요구할 수 있습니다.
+- [ ] 제품 소유자가 마지막 스프린트 검토 회의 이후에 릴리즈 계획을 조정했습니까? 적절한 테스트를 거친 제품을 `제 시간`에 전달하는 소수의 제품 소유자들은 모든 스프린트의 출시를 다시 계획합니다. 이는 보다 중요한 작업이 발견됨에 따라 향후 릴리즈들을 위해 약간의 작업 지연을 요구할 수 있습니다.
 
 <!--Part 2, How Is My Team Doing?-->
 ### Part 2, 우리 팀은 어떻게 하고 있습니까?
 
+<!--While you are encouraged to lead by the example of collaborating with team members on their work, there is a risk you will get lost in technical tasks. Consider your primary responsibilities to the team:-->
 팀 구성원들과 협력하여 일하는 사례를 이끌어내는 것이 좋지만, 기술적인 업무에서 길을 잃을 위험이 있습니다. 팀에 대한 주요 책임 사항을 고려하세요.
 
-- [ ] 당신의 팀은 유동성이 있습니까? 이 [상태][3]의 일부 특성:
+<!--Is your team in the state of flow? Some characteristics of this [state][3]-->
+- [ ] 당신의 팀은 유동성이 있습니까? 이 [상태][3]의 일부 특성입니다.
+<!--Clear goals (expectations and rules are discernible and goals are attainable, aligning appropriately with one's skill set and abilities).-->
   - 명확한 목표 (기대와 규칙은 식별 가능하며 목표는 달성 가능하며 기술의 집합과 능력에 따라 적절히 조정됩니다).
+  <!--Concentration and focus, a high degree of concentration on a limited field of attention.-->
   - 집중력과 초점, 제한된 관심 분야에 대한 높은 집중도.
+  <!--A loss of the feeling of self-consciousness, the merging of action and awareness.-->
   - 자의식 감각 상실, 행동과 인식의 융합.
+  <!--Direct and immediate feedback (successes and failures in the course of the activity are apparent, so that behavior can be adjusted as needed).-->
   - 직접적이고 즉각적인 피드백 (활동 과정에서의 성공과 실패는 명백하므로 행동이 필요에 따라 조정될 수 있습니다).
+  <!--Balance between ability level and challenge (the activity is neither too easy nor too difficult).-->
   - 능력 수준과 도전 사이의 균형 (활동이 너무 쉽지도 어렵지도 않은 상태).
+  <!--A sense of personal control over the situation or activity.-->
   - 상황이나 활동에 대한 개인적인 통제.
+  <!--The activity is intrinsically rewarding, so there is an effortlessness of action.-->
   - 이 활동은 본질적으로 보람을 느끼므로 행동하기 쉽습니다.
-- [ ] 팀원들이 서로를 좋아하고, 함께하고, 서로의 성공을 축하하는 것처럼 보입니까?
-- [ ] 팀 구성원들이 서로 간의 높은 기준에 대한 책임을 지고 서로에게 성장하도록 도전합니까?
+<!--Do team members seem to like each other, goof off together, and celebrate each other's success?-->
+- [ ] 팀원들이 서로를 좋아하며 함께하고 서로의 성공을 축하하는 것처럼 보입니까?
+<!--Do team members hold each other accountable to high standards, and challenge each other to grow?-->
+- [ ] 팀 구성원들이 서로 간의 높은 기준에 대한 책임을 지고 서로 성장하도록 도전합니까?
+<!--Are there issues/opportunities the team isn't discussing because they're too [uncomfortable][4]?-->
 - [ ] 팀이 너무 [불편][4]하기 때문에 논의하지 않는 문제/기회가 있습니까?
-- [ ] [스프린트 회고 미팅][5]의 다양한 형식과 위치를 시도해 보셨습니까?
-- [ ] 팀은 스프린트 목표에 계속 집중했습니까? 아마도 스프린트에 대해 커밋된 제품 백로그 항목의 수락 기준을 다시 검토하기 위해 중간 스프린트 진단을 해야 합니다.
-- [ ] Sprint 작업 보드가 팀이 실제로 하고 있는 것을 반영합니까? 하루 분량의 일보다 큰 비공개 과제와 과제의 "암흑 물질"을 조심하십시오. 스프린트 약속과 관련이 없는 작업은 이러한 약속에 대한 장애물입니다.
+<!--Have you tried a variety of formats and locations for [Sprint Retrospective Meetings][5]?-->
+- [ ] [스프린트 회고 미팅][5]의 다양한 형식과 장소를 시도해 보셨습니까?
+<!--Has the team kept focus on Sprint goals? Perhaps you should conduct a mid-Sprint checkup to re-review the acceptance criteria of the Product Backlog Items committed for this Sprint.-->
+- [ ] 팀은 스프린트 목표에 계속 집중했습니까? 이 스프린트에 대해 커밋된 제품 백로그 항목의 허용 기준을 다시 검토하려면 중간 스프린트 검사를 수행해야 합니다.
+<!--Does the Sprint taskboard reflect what the team is actually doing? Beware the "dark matter" of undisclosed tasks and tasks bigger than one day’s work. Tasks not related to Sprint commitments are impediments to those commitments.-->
+- [ ] 스프린트 작업 보드가 팀이 실제로 하고 있는 것을 반영합니까? 하루 분량의 일보다 큰 비공개 과제와 과제의 "암흑 물질"을 조심하십시오. 스프린트 약속과 관련이 없는 작업은 이러한 약속에 대한 장애물입니다.
+<!--Does your team have 3-9 people with a sufficient mix of skills to build a potentially shippable product increment?-->
 - [ ] 당신의 팀에는 잠재적으로 출하 가능한 제품을 증가시킬 수 있는 충분한 기술을 보유한 3-9명의 직원이 있습니까?
+<!--Is your team's taskboard up to date?-->
 - [ ] 당신의 팀의 작업 보드는 최신의 상태입니까?
+<!--Are the team self-management artifacts visible to the team, convenient for the team to use?-->
 - [ ] 팀이 사용하기에 편리하도록 팀이 자체 관리 아티팩트들을 볼 수 있습니까?
+<!--Are these artifacts adequately protected from meddlers? Excess scrutiny of daily activity by people outside the team may impede team internal transparency and self management.-->
 - [ ] 이러한 아티팩트들이 간섭하려는 사람들로부터 적절히 보호되고 있습니까? 팀 외부 사람들에 의한 일상 활동의 과도한 조사는 팀 내부의 투명성과 자기 관리를 저해할 수 있습니다.
+<!--Do team members volunteer for tasks?-->
 - [ ] 팀원들이 일에 지원을 합니까?
-- [ ] 기술 부채 상환의 필요성이 이행의 정의에서 명확하게 드러나 점차적으로 코드를 개발하기에 더 좋은 곳으로 만들었습니까?
-- [ ] 팀 구성원이 합의된 업무(테스팅, 사용자 문서 등)의 모든 측면에 대해 총괄하여 자신의 직책을 팀 문 앞에 남겨두고 있습니까?
+<!--Has the need for technical debt repayment been made explicit in the definition of done, gradually making the code a more pleasant place to work?-->
+- [ ] 기술 부채 상환의 필요성이 시행의 정의에서 분명해짐에 따라, 점차적으로 코드가 동작하기에 더 쾌적한 곳이 되었습니까?
+<!--Are team members leaving their job titles at the door of the team room, collectively responsible for all aspects of agreed work (testing, user documentation, etc.)?-->
+- [ ] 팀 구성원이 합의된 작업(테스팅, 문서, 등)의 모든 측면을 총괄적으로 책임지고 자신의 직위를 팀 룸 문에 남기고 있습니까?
 
+<!--Part3, How Are Our Engineering Practices Doing?-->
 ### Part 3, 당사의 엔지니어링 실무는 어떻게 진행되고 있습니까?
 
 - [ ] 개발 중인 시스템에 "테스트 푸시" 버튼이 있어(같은 팀이나 다른 팀의) 재 발생한 장애(이전 작업 기능 중단)를 일으킨 경우 누군가가 편리하게 감지할 수 있습니까? 일반적으로 이것은 xUnit 프레임워크(JUnit, NUnit 등)를 통해 이루어집니다.
