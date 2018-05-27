@@ -1,6 +1,7 @@
 # 스크럼 마스터 (Scrum Master) 체크 리스트
 
-원본: http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf
+- 원본: <http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf>
+- 원본 텍스트: [Scrum Master Checklist](scrum-master-checklist.md)
 
 ## An Example Checklist for ScrumMasters
 
@@ -115,32 +116,52 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Part3, How Are Our Engineering Practices Doing?-->
 ### Part 3, 당사의 엔지니어링 실무는 어떻게 진행되고 있습니까?
 
-- [ ] 개발 중인 시스템에 "테스트 푸시" 버튼이 있어(같은 팀이나 다른 팀의) 재 발생한 장애(이전 작업 기능 중단)를 일으킨 경우 누군가가 편리하게 감지할 수 있습니까? 일반적으로 이것은 xUnit 프레임워크(JUnit, NUnit 등)를 통해 이루어집니다.
+<!--Does your system in development have a "push to test" button allowing anyone (same team or different team) to conveniently detect when they've caused a regression failure (broken previously-working functionality)? Typically this is achieved through the xUnit framework (JUnit, NUnit, etc.).-->
+- [ ] 개발 중인 시스템에 "테스트 푸시" 버튼이 있어(같은 팀이나 다른 팀의) 회귀 실패(이전 작업 기능 중단)를 일으킨 경우 누군가가 편리하게 감지할 수 있습니까? 일반적으로 이것은 xUnit 프레임워크(JUnit, NUnit 등)를 통해 이루어집니다.
+<!--Do you have an appropriate balance of automated end-to-end system tests (a.k.a. "functional tests") and automated unit tests?-->
 - [ ] 자동화된 end-to-end 시스템 테스트("기능 테스트"라고도 함)와 자동화된 유닛 테스트의 적절한 균형을 보유하고 있습니까?
+<!--Is the team writing both system tests and unit tests in the same language as the system they're developing? Collaboration is not enhanced by proprietary scripting languages or capture playback tools that only a subset of the team knows how to maintain.-->
 - [ ] 팀이 개발 중인 시스템과 동일한 언어로 시스템 테스트와 유닛 테스트를 모두 작성하고 있습니까? 협업은 독점적 스크립팅 언어 또는 팀의 일부만 유지 관리 방법을 알고 있는 캡처 재생 도구에 의해 강화되지 않습니다.
-- [ ] 팀이 시스템 테스트와 [유닛 테스트][6] 사이의 유용한 회색 영역을 발견했습니까?
-- [ ] 누군가 7가지 회귀 실패를 일으킬 경우 [지속적인 통합][7] 서버가 자동으로 알람을 울려줍니까? 이 피드백 루프를 몇 시간 또는 몇 분으로 줄일 수 있습니까? ("매일 짓는 건축물은 약한 자들을 위한 것이다."-켄트 벡)
+<!--Has your team discovered the useful gray area between system tests and [unit tests][6]?-->
+- [ ] 팀이 시스템 테스트와 [유닛 테스트][6] 사이의 유용한 중간 영역을 발견했습니까?
+<!--Does a [continuous integration][7] server automatically sound an alarm when someone causes a regression 7 failure? Can this feedback loop be reduced to hours or minutes? ("Daily builds are for wimps." -- Kent Beck)-->
+- [ ] 누군가 7가지 회귀 실패를 일으킬 경우 [지속적인 통합(CI)][7] 서버가 자동으로 알람을 울려줍니까? 이 피드백 루프를 몇 시간 또는 몇 분으로 줄일 수 있습니까? ("매일 건축하는 것은 약한 사람들을 위한 것입니다." -- 켄트 벡)
+<!--Do all tests roll up into the continuous integration server result?-->
 - [ ] 모든 테스트가 지속적인 통합 서버 결과에 반영됩니까?
-- [ ] 8개의 빅 업 프론트 디자인 대신에 지속적인 디자인과 지속적인 리팩토링의 즐거움을 팀원들이 발견했습니까? 리팩토링은 엄격한 정의를 가지고 있습니다. 즉, 외부의 행동을 변경하지 않고 내부 구조를 변경하는 것입니다. 리팩토링은 중복 코드, 복잡한 조건 로직(과도한 삽입이나 긴 방법으로 볼 수 있음), 형편없이 명명된 식별자, 개체 간의 과도한 연결 등이 있을 때 시간마다 몇번씩 발생해야 합니다. 신뢰할 수 있는 방법으로 리팩토링을 하는 것은 자동화된 테스트 범위에서만 가능합니다. 리팩토링을 무시하면 향후 제품을 변경하기가 어려워집니다. 특히 나쁜 코드를 기꺼이 개발할 좋은 개발자를 찾기가 어려울 수 있습니다.
+<!--Have team members discovered the joy of continuous design and [constant refactoring][8], as an alternative to 8 Big Up Front Design? Refactoring has a strict definition: changing internal structure without changing external behavior. Refactoring should occur several times per hour, whenever there is duplicate code, complex conditional logic (visible by excess indenting or long methods), poorly named identifiers, excessive coupling between objects, etc. Refactoring with confidence is only possible with automated test coverage. Neglecting refactoring makes it hard to change the product in the future, especially since it’s hard to find good developers willing to work on bad code.-->
+- [ ] 8개의 빅 업 프론트 디자인 대신에 지속적인 디자인과 [지속적인 리팩토링][8]의 즐거움을 팀원들이 발견했습니까? 리팩토링은 엄격한 정의를 가지고 있습니다. 즉, 외부의 행동을 변경하지 않고 내부 구조를 변경하는 것입니다. 리팩토링은 중복 코드, 복잡한 조건 로직(과도한 삽입이나 긴 방법으로 볼 수 있음), 형편없이 명명된 식별자, 개체 간의 과도한 연결 등이 있을 때 시간마다 몇 번씩 발생해야 합니다. 신뢰할 수 있는 방법으로 리팩토링을 하는 것은 자동화된 테스트 범위에서만 가능합니다. 리팩토링을 무시하면 향후 제품을 변경하기가 어려워집니다. 특히 나쁜 코드에서 기꺼이 개발할 좋은 개발자를 찾기 어려울 수 있습니다.
+<!--Does your definition of "done" for each Product Backlog Item include full automated test coverage and refactoring? Learning Test Driven Development (TDD) increases the probability of achieving this.-->
 - [ ] 각 제품 배경 품목의 "완료"에 대한 정의에 완전히 자동화된 테스트 적용 범위와 리팩토링이 포함되어 있습니까? 테스트 중심의 개발(TDD)을 학습하면 이 목표를 달성할 확률이 높아집니다.
-- [ ] 팀원들이 대부분의 시간을 짝 프로그래밍 방식으로 진행합니까? 짝 프로그래밍은 코드 유지 관리 가능성을 획기적으로 높이고 버그 발생률을 줄일 수 있습니다. 사람들의 경계에 도전하고 때로는 더 오래 걸리는 것처럼 보입니다. (우리가 전달할 기능보다는 코드 라인으로 측정하는 경우) 팀원들과 짝을 이루는 작업일을 시작함으로써 모범을 보이십시오. 그들 중 일부는 이런 식으로 일하는 것을 더 좋아할 것입니다.
+<!--Are team members pair programming most of the time? Pair programming may dramatically increase code maintainability and reduce bug rates. It challenges people's boundaries and sometimes seems to take longer (if we measure by lines of code rather than shippable functionality). Lead by example by initiating paired workdays with team members. Some of them will start to prefer working this way.-->
+- [ ] 팀원들이 대부분의 시간을 짝 프로그래밍 방식으로 진행합니까? 짝 프로그래밍은 코드 유지 관리 가능성을 획기적으로 높이고 버그 발생률을 줄일 수 있습니다. 그것은 사람들의 한계에 도전하고 때로는 더 오래 걸리는 것처럼 보입니다. (우리가 전달할 기능보다는 코드 라인으로 측정하는 경우) 팀원들과 짝을 이루는 작업을 시작하는 것을 예시로 들어 알려줍니다. 그들 중 일부는 이런 식으로 일하는 것을 더 좋아할 것입니다.
 
+<!--Part 4, How Is The Organization Doing?-->
 ### Part 4, 조직은 어떻게 되어가고 있습니까?
 
-- [ ] 적절한 양의 팀 간 의사소통이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 유일한 방법이며, [가장 좋은 방법][9]은 아닙니다.
+<!--Is the appropriate amount of inter-team communication happening? “Scrum of Scrums” is only one way to achieve this, and rarely the [best][9].-->
+- [ ] 팀 간 적절한 커뮤니케이션이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 한가지 방법일 뿐이며,, 드물게 [가장 좋은 방법][9]일 수는 있습니다.
+<!--Are teams independently able to produce working features, even [spanning architectural boundaries][10]?-->
 - [ ] [아키텍처 경계를 넘어서][10], 팀이 독립적으로 작업 기능을 생산할 수 있습니까?
-- [ ] 당신의 스크럼 마스터가 서로 만나서 조직적 장애물(impediments) 리스트를 작성하고 있습니까?
-- [ ] 해당 시, 조직 장애물이 개발 책임자 사무실 벽에 붙어 있습니까? 비용 달러화, 시장 진출 시간 단축, 품질 저하 또는 고객 기회 상실로 정량화할 수 있습니까? (그러나 Ken Schwaber의 실수로부터 배우십시오: ["A dead ScrumMaster is a useless ScrumMaster."][11])
-- [ ] 귀사는 경력 개발을 위해 팀의 공동 목표와 호환되는 몇 안 되는 기업 중 하나입니까? 테스트, 테스트 자동화 또는 사용자 문서를 희생하여 프로그래밍 또는 아키텍처 작업을 수행하는 [경력 인센티브]가 있으면 "아니오"로 대답하십시오.
-- [ ] 귀사는 무역 언론 또는 기타 독립 공급 업체로부터 귀사의 가장 일하기 좋은 기업 또는 업계 리더로 인정받았습니까?
+<!--Are your ScrumMasters meeting with each other, working the organizational impediments list?-->
+- [ ] 당신의 스크럼 마스터가 서로 만나서 조직적 장애물(impediments) 목록을 작성하고 있습니까?
+<!--When appropriate, are the organizational impediments pasted to the wall of the development director's office? Can the cost be quantified in dollars, lost time to market, lost quality, or lost customer opportunities? (But learn from Ken Schwaber's mistakes: ["A dead ScrumMaster is a useless ScrumMaster."][11])-->
+- [ ] 해당 시, 조직 장애물이 개발 책임자 사무실 벽에 붙어 있습니까? 시장 진출 시간 낭비, 품질 저하 또는 고객 기회 상실과 같은 것을 재화(달러)로 정량화할 수 있습니까? (그러나 Ken Schwaber의 실수로부터 배우십시오: ["A dead ScrumMaster is a useless ScrumMaster."][11])
+<!--Is your organization one of the few with career paths compatible with the collective goals of your teams? Answer "no" if there's a [career incentive][12] to do programming or architecture work at the expense of testing, test automation, or user documentation.-->
+- [ ] 귀사는 경력 개발과 팀의 공동 목표가 호환되는 몇 안 되는 기업 중 하나입니까? 테스트, 테스트 자동화 또는 사용자 문서를 희생하여 프로그래밍 또는 아키텍처 작업을 수행하는 [경력 인센티브][12]가 있으면 "아니오"로 대답하십시오.
+<!--Has your organization been recognized by the trade press or other independent sources as one of the best places to work, or a leader in your industry?-->
+- [ ] 귀사는 무역 언론 또는 기타 독립 공급 업체로부터 가장 일하기 좋은 기업 또는 업계 리더로 인정받았습니까?
+<!--Are you creating a learning organization?-->
 - [ ] 학습 조직을 만들고 있습니까?
 
 ### 결론
 
+<!--If you can check off most of these items and still have time left during the day, I’d like to hear from you.-->
 만약 당신이 이 목록들의 대부분을 체크하고도 시간이 남았다면, 당신으로부터 의견을 듣고 싶습니다.
 
+<!--There’s no canned formula for creating human ingenuity. This paper lists points which may, or may not, help in your situation.-->
 인간의 독창성을 창조할 수 있는 통조림 형태는 없습니다. 이 문서에는 상황에 도움이 될 수도 있고 그렇지 않을 수도 있는 요점이 나열되어 있습니다.
 
+<!--Once you start to realize what you could do to make a difference, you may find yourself afraid to do it. This is a sign you're on the right track.-->
 일단 당신이 변화를 만들기 위해 무엇을 할 수 있는지 깨닫기 시작하면, 두려워할 수도 있습니다. 이것은 올바른 방향의 신호입니다.
 
 ## 첨부
@@ -155,13 +176,15 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 
 ### 지침
 
-만일 당신이 훈련 과제로 이 체크 리스트를 받았고, 당신의 현재(또는 가장 최근의) 고용주가 스크럼 같은 것을 시도하고 있다면, 이것을 그곳에서 본 것에 적용하시오. 다음 중 하나를 사용하여 각 항목에 표시하십시오:
+<!--If you have received this checklist as a training assignment and your current (or most recent) employer has been attempting anything like Scrum, please apply this to what you’ve seen there. Mark each item with one of the following:-->
+만일 당신이 훈련 과제로 이 체크 리스트를 받았고, 당신의 현재(또는 가장 최근의) 고용주가 스크럼 같은 것을 시도하고 있다면, 이것을 그곳에서 본 것에 적용하십시오. 다음 중 하나를 사용하여 각 항목에 표시하십시오:
 
 - √ ("잘한 것")
 - ∆ ("개선 될 수 있으며 시작하는 방법을 알고 있음")
 - ? ("개선 될 수 있으나, 어떻게 하는지 모름")
 - N/A ("해당 사항 없음" 또는 "아무런 도움이 되지 않을 것")
 
+<!--Or, if your current (or most recent) employer has not been attempting anything like Scrum, mark each item with one of the following:-->
 또는 현재(또는 가장 최근) 고용주가 스크럼과 같은 것을 시도하지 않았다면 각 항목을 다음과 같은 항목을 표시하십시오:
 
 - √ ("잘한 것" 또는 "잘할 수 있는 것")
@@ -169,6 +192,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 - ? ("도전해볼만 하지만, 시작하는 법을 모름")
 - N/A ("해당 사항 없음" 또는 "아무런 도움이 되지 않을 것")
 
+<!--When all items are marked, declare 2-6 organizational impediments on the attached Organizational Impediment Forms, whether or not they’re derived from this checklist. Choose impediments you have at least 1% hope of changing.-->
 모든 항목이 표시되면, 첨부된 조직적 장애물 확인서의 점검 목록에서 파생되었는지 여부와 상관없이 2-6 개의 조직적 장애물을 신고하십시오. 바꿀 수 있다는 희망을 적어도 1%는 가지고 있는 장애물을 선택하십시오.
 
 [1]: http://xp123.com/xplor/xp0308/index.shtml%06

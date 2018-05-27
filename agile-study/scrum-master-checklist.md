@@ -1,6 +1,6 @@
 # Scrum Master Checklist
 
-Origin: http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf
+Origin: <http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf>
 
 ## An Example Checklist for ScrumMasters
 
