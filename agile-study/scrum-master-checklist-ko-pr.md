@@ -140,7 +140,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Is the appropriate amount of inter-team communication happening? “Scrum of Scrums” is only one way to achieve this, and rarely the [best][9].-->
 - [ ] 팀 간 적절한 커뮤니케이션이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 유일한 방법이며, 때때로 [가장 좋은 방법][9]일 수는 있습니다.
 <!--Are teams independently able to produce working features, even [spanning architectural boundaries][10]?-->
-- [ ] [아키텍처 경계를 넘어서][10]([참고][http://bcho.tistory.com/1048]), 팀이 독립적으로 작업 기능을 생산할 수 있습니까?
+- [ ] [아키텍처 경계를 넘어서][10]([참고][19]), 팀이 독립적으로 작업 기능을 생산할 수 있습니까?
 <!--Are your ScrumMasters meeting with each other, working the organizational impediments list?-->
 - [ ] 여러분의 스크럼 마스터가 서로 만나서 조직적인 장애물(impediments) 목록을 작성하고 있습니까?
 <!--When appropriate, are the organizational impediments pasted to the wall of the development director's office? Can the cost be quantified in dollars, lost time to market, lost quality, or lost customer opportunities? (But learn from Ken Schwaber's mistakes: ["A dead ScrumMaster is a useless ScrumMaster."][11])-->
