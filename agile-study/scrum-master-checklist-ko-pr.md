@@ -7,7 +7,7 @@
 
 - Michael James (mj4scrum@gmail.com)
 - 14 September 2007 (Revised 2 Feb 2016)
-- 역자: 이윤석(@pineoc)
+- 역자: 이윤석(@pineoc), 김승호(@raccoonyy)
 - 번역일: 2018.03.31
 
 <!--A Full Time Facilitator?-->
