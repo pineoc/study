@@ -15,13 +15,13 @@
 
 <!--An adequate ScrumMaster can handle two or three teams at a time. If you're content to limit your role to
 organizing meetings, enforcing timeboxes, and responding to the impediments people explicitly report, you can get by with part time attention to this role. The team will probably still exceed the baseline, pre-Scrum expectation at your organization, and probably nothing catastrophic will happen.-->
-좋은 스크럼 마스터는 한 번에 두세 팀을 처리할 수 있습니다. 역할을 제한하려는 콘텐츠가 있는 경우 모임을 조직하고, 시간 제한을 적용하고, 사람들이 명시적으로 보고하는 장애물에 대응하면, 여러분은 이 역할에 대한 부분적이고 시간적인 주의를 기울일 수 있습니다. 팀은 여전히 기준선을 초과하고, 조직에서의 사전 스크럼 예상을 초과할 것이며, 아마 어떠한 치명적인 일도 일어나지 않을 것입니다.
+좋은 스크럼 마스터는 한 번에 두세 팀을 처리할 수 있습니다. 역할을 나눠야하는 콘텐츠가 있는 경우 회의를 만들고, 시간 제한을 적용하고, 사람들이 명시적으로 보고하는 장애물에 대응하면, 여러분은 이 역할에 대한 단편 시간적인 주의를 기울일 수 있습니다. 팀은 여전히 기준선을 초과하고, 조직에서의 사전 스크럼 예상을 초과할 것이며, 아마 어떠한 치명적인 일도 일어나지 않을 것입니다.
 
 <!--But if you can envision a team that has a great time accomplishing things no one previously thought possible, within a transformed organization, consider being a great ScrumMaster.-->
-그러나 이전에 아무도 가능하다고 생각하지 않았던 일을 해낼 수 있는 팀을 상상해 본다면, 조직을 변화시키면서 훌륭한 스크럼 마스터가 되는 것을 고려해보시길 바랍니다.
+그러나 변화된 조직 내에서, 이전에 아무도 가능하다고 생각하지 못했던 일을 해내는 팀이 되길 꿈꾼다면 위대한 스크럼 마스터가 되어 보십시오.
 
 <!--A great ScrumMaster can handle one team at a time.-->
-훌륭한 스크럼 마스터는 한 번에 한 팀을 다룰 수 있습니다.
+위대한 스크럼 마스터는 한 번에 한 팀을 다룰 수 있습니다.
 
 <!--We recommend one dedicated ScrumMaster per team of about seven when starting out.-->
 프로젝트를 시작할 때, 일곱 명 정도로 구성된 팀 하나당 전담 스크럼 마스터를 권장합니다.
@@ -94,7 +94,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Have you tried a variety of formats and locations for [Sprint Retrospective Meetings][5]?-->
 - [ ] [스프린트 회고 미팅][5]의 다양한 형식과 장소를 시도해 보셨습니까?
 <!--Has the team kept focus on Sprint goals? Perhaps you should conduct a mid-Sprint checkup to re-review the acceptance criteria of the Product Backlog Items committed for this Sprint.-->
-- [ ] 팀은 스프린트 목표에 계속 집중했습니까? 스프린트에 커밋된 제품 백로그 항목의 허용 기준을 다시 검토하려면 중간 스프린트 검사를 수행해야 합니다.
+- [ ] 팀은 스프린트 목표에 계속 집중했습니까? 스프린트에 커밋된 제품 백로그 항목의 허용 기준을 다시 검토하려면 스프린트 중간 점검을 수행해야 합니다.
 <!--Does the Sprint taskboard reflect what the team is actually doing? Beware the "dark matter" of undisclosed tasks and tasks bigger than one day’s work. Tasks not related to Sprint commitments are impediments to those commitments.-->
 - [ ] 스프린트 작업 보드가 팀의 실제 상황을 반영합니까? 하루 분량의 일보다 큰 비공개 과제 같은 "암흑 물질"을 조심하십시오. 스프린트 약속과 관련이 없는 작업은 장애물일 뿐입니다.
 <!--Does your team have 3-9 people with a sufficient mix of skills to build a potentially shippable product increment?-->
