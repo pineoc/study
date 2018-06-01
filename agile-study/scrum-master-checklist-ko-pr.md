@@ -74,7 +74,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Clear goals (expectations and rules are discernible and goals are attainable, aligning appropriately with one's skill set and abilities).-->
   - 명확한 목표 (기대와 규칙은 식별 가능하며 목표는 달성 가능하며 기술의 집합과 능력에 따라 적절히 조정됩니다).
   <!--Concentration and focus, a high degree of concentration on a limited field of attention.-->
-  - 집중력과 초점, 제한된 관심 분야에 대한 높은 집중도.
+  - 집중과 주목, 제한된 관심 분야에 대한 높은 집중.
   <!--A loss of the feeling of self-consciousness, the merging of action and awareness.-->
   - 자의식 감각 상실, 행동과 인식의 융합.
   <!--Direct and immediate feedback (successes and failures in the course of the activity are apparent, so that behavior can be adjusted as needed).-->
@@ -98,7 +98,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Does the Sprint taskboard reflect what the team is actually doing? Beware the "dark matter" of undisclosed tasks and tasks bigger than one day’s work. Tasks not related to Sprint commitments are impediments to those commitments.-->
 - [ ] 스프린트 작업 보드가 팀의 실제 상황을 반영합니까? 하루 분량의 일보다 큰 비공개 과제 같은 "암흑 물질"을 조심하십시오. 스프린트 약속과 관련이 없는 작업은 장애물일 뿐입니다.
 <!--Does your team have 3-9 people with a sufficient mix of skills to build a potentially shippable product increment?-->
-- [ ] 여러분의 팀에는 잠재적으로 출하 가능한 제품을 증가시킬 수 있는 충분한 기술을 보유한 세 명에서 아홉 명 사이의 직원이 있습니까?
+- [ ] 여러분의 팀에는 잠재적으로 실행 가능한 제품을 빌드할 수 있는 충분한 기술을 보유한 세 명에서 아홉 명 사이의 직원이 있습니까?
 <!--Is your team's taskboard up to date?-->
 - [ ] 팀의 작업 보드는 최신의 상태입니까?
 <!--Are the team self-management artifacts visible to the team, convenient for the team to use?-->
