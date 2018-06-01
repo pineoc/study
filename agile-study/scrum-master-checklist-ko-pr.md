@@ -102,9 +102,9 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Is your team's taskboard up to date?-->
 - [ ] 팀의 작업 보드는 최신의 상태입니까?
 <!--Are the team self-management artifacts visible to the team, convenient for the team to use?-->
-- [ ] 팀이 사용하기에 편리하도록 팀이 자체 관리 아티팩트들(자체 관리 도구. 옮긴이)을 볼 수 있습니까?
+- [ ] 팀이 사용하기에 편리하도록 팀이 자체 관리 아티팩트들(제품 백로그, 스프린트 백로그, 제품 결과물. 옮긴이)을 볼 수 있습니까?
 <!--Are these artifacts adequately protected from meddlers? Excess scrutiny of daily activity by people outside the team may impede team internal transparency and self management.-->
-- [ ] 이러한 아티팩트들(도구. 옮긴이)이 간섭하려는 사람들로부터 적절히 보호되고 있습니까? 하루하루 팀 외부에서 지나치게 감시하려 드는 행위는 팀 내부의 투명성과 자기 관리를 저해할 수 있습니다.
+- [ ] 이러한 아티팩트들(제품 백로그, 스프린트 백로그, 제품 결과물. 옮긴이)이 간섭하려는 사람들로부터 적절히 보호되고 있습니까? 하루하루 팀 외부에서 지나치게 감시하려 드는 행위는 팀 내부의 투명성과 자기 관리를 저해할 수 있습니다.
 <!--Do team members volunteer for tasks?-->
 - [ ] 팀원들이 스스로 일을 맡습니까?
 <!--Has the need for technical debt repayment been made explicit in the definition of done, gradually making the code a more pleasant place to work?-->
