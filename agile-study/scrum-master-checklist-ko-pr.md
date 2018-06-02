@@ -28,7 +28,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 
 <!--If you haven't discovered all the work there is to do, tune in to your Product Owner, your team, your team's engineering practices, and the organization outside your team. While there's no single prescription for everyone, I've outlined typical things I've seen ScrumMasters overlook. Please mark each box with √, ∆, ?, or N/A, as described on the last page.-->
 해당 팀에서 수행해야 할 작업을 모두 찾지 못한 경우에는 제품 소유자, 팀, 팀의 엔지니어링 관행 및 팀 외부 조직에도 문의하십시오.  
-모든 사람에게 똑같은 약을 처발할 수 는 없겠지만, 이 문서에서는 제가 보았던 스크럼 마스터들이 간과하고 있는 대표적인 것들에 대해 설명했습니다.  
+모든 사람에게 똑같은 약을 처발할 수는 없겠지만, 이 문서에서는 제가 보았던 스크럼 마스터들이 간과하고 있는 대표적인 것들에 대해 설명했습니다.  
 마지막 페이지에서 설명한 대로 각 항목에 √, Δ, ? 또는 N/A를 표시하기 바랍니다.
 
 <!--Part 1, How Is My Product Owner Doing?-->
@@ -45,7 +45,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Is the Product Backlog a manageable size? To maintain a manageable number of items, keep things more granular towards the top, with general epics at the bottom. It's counterproductive to overanalyze too far past the top of the Product Backlog. Your requirements will change in an ongoing conversation between the developing product and the stakeholders/customers.-->
 - [ ] 제품 백로그는 관리 가능한 크기입니까? 관리 가능한 수의 항목을 유지하려면 작은 단위의 일을 위로 올리고 큰 단위의 일을 아래 쪽으로 내리는 것을 유지해야 합니다. 제품 백로그의 상단을 지나치게 오래 분석하는 것은 생산성에 방해가 됩니다. 여러분의 요구 사항은 개발 중인 제품에 따라, 혹은 이해 관계자나 고객 간의 지속적인 대화를 통해 달라질 것입니다.
 <!--Could any requirements (especially those near the top of the Product Backlog) be better expressed as independent, negotiable, valuable, estimable, small, and testable [user stories][1]?-->
-- [ ] 요구 사항 (특히 제품 백 로그의 상단에 있는 요구 사항)을 독립적이며, 협상 가능하며, 가치 있고, 예측 가능하고, 작고, 테스트 가능한 [사용자 스토리][1]([역서][13])로 잘 표현할 수 있습니까?
+- [ ] 요구 사항 (특히 제품 백로그의 상단에 있는 요구 사항)을 독립적이며, 협상 가능하며, 가치 있고, 예측 가능하고, 작고, 테스트 가능한 [사용자 스토리][1]([역서][13])로 잘 표현할 수 있습니까?
 <!--Have you educated your Product Owner about technical debt and how to avoid it? One piece of the puzzle may be to write automated test and refactoring into the definition of "done" for each backlog item.-->
 - [ ] 제품 소유자에게 기술 부채와 이를 피하는 방법에 대해 교육한 적이 있습니까? 각 백로그 항목에 대해 "완료"의 정의에 의해 자동화된 테스트 및 리팩터링을 작성하는 것은 매우 중요합니다.
 <!--Is the backlog an information radiator, immediately visible to all stakeholders?-->
@@ -140,13 +140,13 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Is the appropriate amount of inter-team communication happening? “Scrum of Scrums” is only one way to achieve this, and rarely the [best][9].-->
 - [ ] 팀 간 적절한 커뮤니케이션이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 유일한 방법이며, 때때로 [가장 좋은 방법][9]일 수는 있습니다.
 <!--Are teams independently able to produce working features, even [spanning architectural boundaries][10]?-->
-- [ ] [아키텍처 경계를 넘어서][10]([참고][19]), 팀이 독립적으로 작업 기능을 생산할 수 있습니까?
+- [ ] [아키텍처 경계를 넘어서][10]([참고][19]), 팀이 독립적으로 동작하는 기능을 생산할 수 있습니까?
 <!--Are your ScrumMasters meeting with each other, working the organizational impediments list?-->
 - [ ] 여러분의 스크럼 마스터가 서로 만나서 조직적인 장애물(impediments) 목록을 작성하고 있습니까?
 <!--When appropriate, are the organizational impediments pasted to the wall of the development director's office? Can the cost be quantified in dollars, lost time to market, lost quality, or lost customer opportunities? (But learn from Ken Schwaber's mistakes: ["A dead ScrumMaster is a useless ScrumMaster."][11])-->
 - [ ] 필요한 경우, 조직적인 장애물이 개발 책임자 사무실 벽에 붙어 있습니까? 시장 진출 시간 낭비, 품질 저하 또는 고객 기회 상실과 같은 것을 재화(달러)로 정량화할 수 있습니까? (그러나 Ken Schwaber의 실수로부터 배우십시오: ["A dead ScrumMaster is a useless ScrumMaster."][11]([참고][20]))
 <!--Is your organization one of the few with career paths compatible with the collective goals of your teams? Answer "no" if there's a [career incentive][12] to do programming or architecture work at the expense of testing, test automation, or user documentation.-->
-- [ ] 여러분의 회사는 경력 개발과 팀의 공동 목표가 일치되는 몇 안 되는 기업 중 하나입니까? 테스트, 테스트 자동화 또는 사용자 문서를 희생하여 프로그래밍 또는 아키텍처 작업을 수행하는 [경력 인센티브][12]가 있으면 "아니오"로 대답하십시오.
+- [ ] 여러분의 회사는 경력 개발과 팀의 공동 목표가 일치되는 몇 안 되는 기업 중 하나입니까? 테스트, 테스트 자동화 또는 사용자 문서를 희생하고 프로그래밍 또는 아키텍처 작업을 수행할 [동기][12]가 있는 경우 "아니오"로 대답하십시오.
 <!--Has your organization been recognized by the trade press or other independent sources as one of the best places to work, or a leader in your industry?-->
 - [ ] 여러분의 회사는 업계 언론 또는 기타 독립 언론으로부터 가장 일하기 좋은 기업 또는 업계 리더로 인정받았습니까?
 <!--Are you creating a learning organization?-->
@@ -155,7 +155,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 ### 결론
 
 <!--If you can check off most of these items and still have time left during the day, I’d like to hear from you.-->
-만약 여러분이 이 목록들의 대부분을 체크했고, 시간을 내줄 수 있다면, 여러분으로부터 의견을 듣고 싶습니다.
+만약 여러분이 이 목록들의 대부분을 기록했고, 시간을 내줄 수 있다면, 여러분으로부터 의견을 듣고 싶습니다.
 
 <!--There’s no canned formula for creating human ingenuity. This paper lists points which may, or may not, help in your situation.-->
 인간의 독창성을 창조할 수 있는 판에 박힌 공식은 없습니다. 이 문서는 상황에 도움이 될 수도 있고 그렇지 않을 수도 있는 항목을 나열할 뿐입니다.
