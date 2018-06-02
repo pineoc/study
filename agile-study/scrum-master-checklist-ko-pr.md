@@ -7,7 +7,7 @@
 
 - Michael James (mj4scrum@gmail.com)
 - 14 September 2007 (Revised 2 Feb 2016)
-- 역자: 이윤석(@pineoc), 김승호(@raccoonyy)
+- 역자: 이윤석(@pineoc), 교정: 김승호(@raccoonyy)
 - 번역일: 2018.03.31
 
 <!--A Full Time Facilitator?-->
@@ -88,7 +88,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 <!--Do team members seem to like each other, goof off together, and celebrate each other's success?-->
 - [ ] 팀원들이 서로를 좋아하며, 농담 따먹기하며 서로의 성공을 축하하는 것처럼 보입니까?
 <!--Do team members hold each other accountable to high standards, and challenge each other to grow?-->
-- [ ] 팀 구성원들은 서로에게 높은 기준에 부합하며, 서로 성장하도록 도전합니까?
+- [ ] 팀 구성원들은 서로의 높은 기준에 부합하며, 서로 성장하도록 도전합니까?
 <!--Are there issues/opportunities the team isn't discussing because they're too [uncomfortable][4]?-->
 - [ ] 팀이 너무 [불편][4]([역서][16])하기 때문에 논의하지 않는 문제/기회가 있습니까?
 <!--Have you tried a variety of formats and locations for [Sprint Retrospective Meetings][5]?-->
