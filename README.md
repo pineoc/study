@@ -6,19 +6,19 @@
 
 ### 공부 & 연구
 
-- [CyberLion-Support](CyberLion-Support)
+- [CyberLion-Support](study/CyberLion-Support)
 - [JS-Study](https://github.com/pineoc/js-study)
-- [Agile](agile-study)
-- [Lean Study](agile-study/lean-study)
-- [TDD](tdd)
+- [Agile](study/agile-study)
+- [Lean Study](study/agile-study/lean-study)
+- [TDD](study/tdd)
 
 ### 컨퍼런스
 
-- [Google For Mobile 2017](google-for-mobile-2017)
-- [Google I/O 2017 Extended](io-extended-2017)
-- [J2S Conference 2017](j2s-2017)
-- [play.node 2017](playnode-2017)
-- [WTM-2018](WTM-2018)
+- [Google For Mobile 2017](conference/google-for-mobile-2017)
+- [Google I/O 2017 Extended](conference/io-extended-2017)
+- [J2S Conference 2017](conference/j2s-2017)
+- [play.node 2017](conference/playnode-2017)
+- [WTM-2018](conference/WTM-2018)
 
 ### 토이 프로젝트
 
