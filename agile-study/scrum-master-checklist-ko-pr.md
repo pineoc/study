@@ -138,7 +138,7 @@ organizing meetings, enforcing timeboxes, and responding to the impediments peop
 ### Part 4, 조직은 어떻게 되어가고 있습니까?
 
 <!--Is the appropriate amount of inter-team communication happening? “Scrum of Scrums” is only one way to achieve this, and rarely the [best][9].-->
-- [ ] 팀 간 적절한 커뮤니케이션이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 유일한 방법이며, 때때로 [가장 좋은 방법][9]일 수는 있습니다.
+- [ ] 팀 간 적절한 커뮤니케이션이 이루어지고 있습니까? "Scrum of Scrums"은 이것을 달성하기 위한 유일한 방법이지만, [최선][9]은 아닙니다.
 <!--Are teams independently able to produce working features, even [spanning architectural boundaries][10]?-->
 - [ ] [아키텍처 경계를 넘어서][10]([참고][19]), 팀이 독립적으로 동작하는 기능을 생산할 수 있습니까?
 <!--Are your ScrumMasters meeting with each other, working the organizational impediments list?-->
