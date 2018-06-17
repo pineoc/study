@@ -1,6 +1,6 @@
 # Agile Korea Conference Meetup on June
 
-Agile Korea Conference Facebook Page: https://www.facebook.com/AgileKoreaConference/
+Agile Korea Conference Facebook Page: <https://www.facebook.com/AgileKoreaConference/>
 
 ## Meet-up 정보
 
@@ -24,11 +24,13 @@ Agile Korea Conference Facebook Page: https://www.facebook.com/AgileKoreaConfere
 
 ### 시작
 
+![kakaotalk_20180617_230830246](https://user-images.githubusercontent.com/5077086/41509264-21ef1a00-728c-11e8-9066-34256e9e82a9.jpg)
+
 일정대로 19:30 부터 책 0.1 버전, 0.5 버전을 만들기 시작했습니다.  
 처음에 주제를 선정하기 위해 린커피 방식에서 이야기할 주제를 적고 투표를 했습니다.  
 아래와 같은 투표를 해서 2개를 선정했죠.
 
-![투표한 포스트잇 사진]()
+![1](https://user-images.githubusercontent.com/5077086/41509256-208e0022-728c-11e8-9eeb-d77dba1d25b1.jpg)
 
 1. Agile 효과는 무엇일까
 2. Agile 조직 구성
@@ -64,11 +66,9 @@ Agile Korea Conference Facebook Page: https://www.facebook.com/AgileKoreaConfere
 이렇게 A3 용지에 내용도 정리하고, 그 내용을 기반으로 문서를 적어나갔습니다.  
 책 작성 프로젝트 동안 종이에 작성하면서 타임박스를 수호해주신 승연님께 감사드립니다. :)
 
-- 사진 2
-- 사진 3
-- 사진 4
-- 사진 5
-- 사진 6
+<img src="https://user-images.githubusercontent.com/5077086/41509257-20b8c8de-728c-11e8-9567-56d3bf017b1a.jpg" width="300px"> <img src="https://user-images.githubusercontent.com/5077086/41509258-20e4833e-728c-11e8-8f86-840b1f07a554.jpg" width="300px">
+<img src="https://user-images.githubusercontent.com/5077086/41509259-210e6e6a-728c-11e8-9724-79015cb01270.jpg" width="300px"> <img src="https://user-images.githubusercontent.com/5077086/41509260-213c8f48-728c-11e8-8c6f-7655febc2df4.jpg" width="300px">
+<img src="https://user-images.githubusercontent.com/5077086/41509261-216bbffc-728c-11e8-959d-33fce8ff6241.jpg" width="300px">
 
 중간에 0.5 버전까지 작성 후 중간 `회고`도 진행했습니다.  
 회고 중에 나왔던 이야기를 아래와 같이 정리해보았습니다.
@@ -93,7 +93,7 @@ Agile Korea Conference Facebook Page: https://www.facebook.com/AgileKoreaConfere
 
 ### 팀별 회고 (작성한 책 내용 공유)
 
-- 그림 p1
+![p1](https://user-images.githubusercontent.com/5077086/41509266-226cdfb2-728c-11e8-82bc-78faf6308424.jpg)
 
 총 3팀이 작업했고 각자 다른 형식의 책을 만든 것에 대해 놀라웠습니다.
 
@@ -111,11 +111,12 @@ Agile Korea Conference Facebook Page: https://www.facebook.com/AgileKoreaConfere
 
 마지막에는 팀별로 마지막 회고를 4L(Like, Lacked, Learn, Longed for)로 진행했습니다.
 
-- 그림 7, 8
+![7](https://user-images.githubusercontent.com/5077086/41509262-219782fe-728c-11e8-906b-b7a1821796a1.jpg)
+![8](https://user-images.githubusercontent.com/5077086/41509263-21c3c026-728c-11e8-8d94-b40a506d45e9.jpg)
 
 ## 후기
 
-- 그림 p0
+![p0](https://user-images.githubusercontent.com/5077086/41509265-22421bba-728c-11e8-82b4-2cb041a1996c.jpg)
 
 밋업 장소에 도착했을 때 과자가 딱! 있어서 맛있게 먹으며 새로오신 분들과 아이스브레이킹을 할 수 있어서 좋았습니다.  
 (저도 이제 두 번째로 참여하게되었지만 이제 익숙해진 분위기!)
