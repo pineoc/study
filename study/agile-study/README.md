@@ -16,6 +16,7 @@
 
 - [Agile Korea Conference May Meetup](agile-korea-meetup5.md)
 - [Retrospective workshop](agile-retro-1.md)
+- [Agile Korea Conference June Meetup](agile-korea-meetup6.md)
 
 ## 참고하면 좋은 글
 
