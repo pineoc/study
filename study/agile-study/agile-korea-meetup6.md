@@ -137,8 +137,8 @@ Agile Korea Conference Facebook Page: <https://www.facebook.com/AgileKoreaConfer
 
 다음달 밋업도 기대하는 마음으로 밋업 후기 글을 정리합니다.
 
----
-
 ## 최종 1.0 버전 책
+
+나중에 메일로 공유된 1.0 버전의 책 링크를 받았습니다.
 
 <http://bit.ly/2lmSy3g>
