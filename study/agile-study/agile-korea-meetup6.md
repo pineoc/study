@@ -88,9 +88,6 @@ Agile Korea Conference Facebook Page: <https://www.facebook.com/AgileKoreaConfer
 회고 후에는 1.0 버전을 위해 달렸습니다!  
 천천히하려 했지만 결과물을 보고 싶은 마음에 모두 열정적으로 달렸던 것 같네요. 쓰고 싶은 내용은 많았지만 `Agile 효과`에 대한 내용을 마무리하고 Agile 조직구성에 대한 이야기는 나중을 기약해봅니다.
 
-추후에 구글 Docs에 있는 문서를 좀더 읽기 좋도록 정리할 예정입니다.  
-링크 수정해서 달아두겠습니다.
-
 ### 팀별 회고 (작성한 책 내용 공유)
 
 ![p1](https://user-images.githubusercontent.com/5077086/41509266-226cdfb2-728c-11e8-82bc-78faf6308424.jpg)
@@ -139,3 +136,9 @@ Agile Korea Conference Facebook Page: <https://www.facebook.com/AgileKoreaConfer
 즐겁고 좋은 에너지를 충전할 수 있었던 밋업이었습니다.
 
 다음달 밋업도 기대하는 마음으로 밋업 후기 글을 정리합니다.
+
+---
+
+## 최종 1.0 버전 책
+
+<http://bit.ly/2lmSy3g>
