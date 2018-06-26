@@ -73,7 +73,7 @@ Agile Korea Conference Facebook Page: <https://www.facebook.com/AgileKoreaConfer
 중간에 0.5 버전까지 작성 후 중간 `회고`도 진행했습니다.  
 회고 중에 나왔던 이야기를 아래와 같이 정리해보았습니다.
 
-| Good | Bed |
+| Good | Bad |
 |---|---|
 | 마음대로 이야기 가능 | 세부적 효과는 도출하기 힘듦 |
 | 종이에 쓰면서 작성하니 잘 보임 | 주의사항이 더 많음 |
