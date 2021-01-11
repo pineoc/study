@@ -36,5 +36,25 @@ export class ServerComponent implements OnInit {
 - 스트링 인터폴레이션 {{ name }}
 - 프로퍼티 바인딩 [] = ""
 - 이벤트 바인딩 () = ""
+  - button은 click을 사용해보았음
+  - 이벤트 바인딩할 수 있는 것은 
 
 ### 이벤트 바인딩
+
+### 디렉티브(Directives)
+
+- ngIf, ngFor 이런 것
+- ng 사용할 때 앞에 *을 붙여서 사용해야함. *ngFor, *ngIf 이렇게
+
+#### ngClass & ngStyle
+
+```html
+<p [ngStyle]="{'background-color': getColor()}"
+  [ngClass]="{online: serverStatus === 'online'}"
+>
+  Server with ID {{ serverId }} is {{ getServerStatus() }}
+</p>
+```
+위와 같이 동적으로 사용할 수도 있음
+
+#### ngFor
