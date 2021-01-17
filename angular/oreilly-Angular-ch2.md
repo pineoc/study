@@ -2,7 +2,7 @@
 
 <https://learning.oreilly.com/videos/angular-the/9781788998437>
 
-## Chapter 2: 
+## Chapter 2: The Basics
 
 ### Component
 
@@ -45,6 +45,7 @@ export class ServerComponent implements OnInit {
 
 - ngIf, ngFor 이런 것
 - ng 사용할 때 앞에 *을 붙여서 사용해야함. *ngFor, *ngIf 이렇게
+- angularjs를 사용할때는 그냥 ng-if 이렇게 사용했었음
 
 #### ngClass & ngStyle
 
@@ -55,6 +56,14 @@ export class ServerComponent implements OnInit {
   Server with ID {{ serverId }} is {{ getServerStatus() }}
 </p>
 ```
+
 위와 같이 동적으로 사용할 수도 있음
 
 #### ngFor
+
+요소를 for문을 이용하여 반복해서 나타낼 수 있음
+my-first-app에 server, servers
+
+```html
+<app-server *ngFor="let server of servers"></app-server>
+```
