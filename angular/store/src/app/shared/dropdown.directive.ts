@@ -14,6 +14,6 @@ export class DropdownDirective {
     this.isOpen = !this.isOpen;
   }
   @HostListener('mouseover') onFocus() {
-    console.log('mouse over event');
+    // console.log('mouse over event');
   }
 }
